@@ -1,0 +1,1609 @@
+movie_id,title,releaseDate,genre,language
+1,Endless Poetry,2017-07-14,Biography,Spanish
+2,Elephants,2018-12-07,"Romance, Drama",English
+3,West Side Story,2021-12-10,"Musical, Romance",English
+4,The Edge of Democracy,2019-06-19,"Documentary, History, Drama",Portuguese
+5,Tiger 24,2022-06-10,Documentary,English
+6,Grandma,2015-08-21,"Comedy, Drama",English
+7,Eighth Grade,2018-08-03,"Comedy, Drama",English
+8,Kurt Vonnegut: Unstuck in Time,2021-11-19,"Documentary, Biography",English
+9,The Last Race,2018-11-16,Documentary,English
+10,Gonjiam: Haunted Asylum,2018-04-13,"Horror, Mystery & thriller",Korean
+11,Spirit Untamed,2021-06-04,"Kids & family, Adventure, Animation",English
+12,Hidden Blade,2023-02-17,"History, Drama, Mystery & thriller",English
+13,Belly of the Beast,2020-10-16,Documentary,English
+14,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,2021-04-23,"Fantasy, Adventure, Action, Anime",Japanese
+15,The End of the Tour,2015-07-31,Drama,English
+16,God's Creatures,2022-09-30,"Mystery & thriller, Drama",English
+17,Breaking Surface,2020-12-09,"Action, Drama",Swedish
+18,A Beautiful Day in the Neighborhood,2019-11-22,"Biography, Drama",English
+19,Broken Ceiling,2018-02-23,Drama,English
+20,Suzi Q,2020-07-01,"Documentary, Music",English
+21,Fire at Sea,2016-10-21,Documentary,Italian
+22,A Ghost Story,2017-07-07,"Drama, Fantasy, Romance",English
+23,Taxi,2015-10-02,"Comedy, Drama",Persian
+24,Free in Deed,2017-09-08,Drama,English
+25,Saturday Church,2018-01-12,"Drama, Musical, Lgbtq+",English
+26,Black Widow,2021-07-09,"Action, Adventure",English
+27,Exit,2019-08-02,"Comedy, Adventure",Korean
+28,Queen of Earth,2015-08-26,"Comedy, Drama",English
+29,Cow,2022-04-08,Documentary,English
+30,Mrs. Chatterjee vs Norway,2023-03-17,Drama,Hindi
+31,May It Last: A Portrait of the Avett Brothers,2017-09-12,"Documentary, Music",English
+32,The Novice,2021-12-17,Mystery & thriller,English
+33,Only Yesterday,2016-01-01,"Drama, Anime",Japanese
+34,The Body Remembers When the World Broke Open,2019-11-29,Drama,English
+35,Hot to Trot,2018-08-24,Documentary,English
+36,Wildcat,2022-12-21,Documentary,English
+37,Richard Jewell,2019-12-13,Drama,English
+38,Little Sister,2016-07-08,Drama,Japanese
+39,Marguerite,2016-03-11,Comedy,French
+40,Drive My Car,2021-11-24,Drama,Japanese
+41,The Eagle Huntress,2016-11-02,Documentary,English
+42,A Thousand Cuts,2020-08-07,Documentary,English
+43,Another Round,2020-12-04,"Comedy, Drama",Danish
+44,Snapshots,2018-07-27,Drama,English
+45,Wild Indian,2021-09-03,"Mystery & thriller, Drama",English
+46,The Rape of Recy Taylor,2017-12-08,Drama,English
+47,The Truffle Hunters,2021-03-05,Documentary,Italian
+48,"Love, Antosha",2019-08-02,Documentary,English
+49,Neruda,2016-12-16,"History, Drama",Spanish
+50,83,2021-12-23,"Drama, Biography",Hindi
+51,Midway,2019-11-08,"War, History, Drama",English
+52,The Russian Woodpecker,2015-10-16,"Documentary, War",Russian
+53,In Our Mothers' Gardens,2021-05-06,Documentary,English
+54,Us,2019-03-22,"Horror, Mystery & thriller",English
+55,45 Years,2015-12-23,Drama,English
+56,Flee,2021-12-03,"Documentary, Animation",Danish
+57,Güeros,2015-05-20,Comedy,Spanish
+58,Time,2020-10-09,Documentary,English
+59,Obit.,2017-04-26,Documentary,English
+60,Landfill Harmonic,2016-09-09,"Documentary, Music",Spanish
+61,La La Land,2016-12-25,"Musical, Romance, Comedy, Drama",English
+62,Newtown,2016-10-07,"Documentary, History, Drama",English
+63,Stan & Ollie,2019-01-25,"Biography, Comedy, Drama, History",English
+64,Kedi,2017-02-10,Documentary,Turkish
+65,Pandas,2018-04-06,Documentary,English
+66,Dealt,2017-10-20,Documentary,English
+67,Antiquities,2019-01-25,Comedy,English
+68,Wildlife,2018-10-19,Drama,English
+69,Vinyl Nation,2020-08-28,"Documentary, Music",English
+70,Don't Be Nice,2019-09-20,Documentary,English
+71,The Quiet One,2019-06-21,"Documentary, Music",English
+72,Eat That Question: Frank Zappa in His Own Words,2016-06-24,"Documentary, Music",English
+73,Mind Game,2018-02-16,"Adventure, Comedy, Mystery & thriller",Japanese
+74,Don't Think Twice,2016-07-22,"Comedy, Drama",English
+75,The Other Side of Heaven 2: Fire of Faith,2019-06-28,"History, Drama, Biography, Adventure",English
+76,Western Stars,2019-10-25,"Documentary, Music",English
+77,Detective Knight: Redemption,2022-12-09,"Action, Mystery & thriller",English
+78,All the Beauty and the Bloodshed,2022-11-23,"Documentary, Biography",English
+79,Operation Curveball,2021-10-08,Comedy,German
+80,The Beta Test,2021-11-05,"Mystery & thriller, Comedy",English
+81,The Invisible Man,2020-02-28,"Horror, Mystery & thriller",English
+82,Who We Are: A Chronicle of Racism in America,2022-01-14,Documentary,English
+83,The Reports on Sarah and Saleem,2019-06-12,Drama,Arabic
+84,Dragon Ball Super: Broly,2019-01-16,"Action, Adventure, Anime",Japanese
+85,Mogul Mowgli,2021-09-03,Drama,English
+86,Hondros,2018-03-02,"Documentary, Biography, War",English
+87,"Quo Vadis, Aida?",2021-03-05,"Drama, War",Bosnian
+88,Swim Team,2017-07-07,Documentary,English
+89,Kajaki,2015-11-13,"War, Drama",English
+90,The Worst Person in the World,2022-02-04,"Comedy, Drama, Romance",Norwegian
+91,The Weasel's Tale,2020-12-11,"Comedy, Drama",Spanish
+92,Jersey,2019-04-18,Drama,Telugu
+93,"Josee, The Tiger and the Fish",2021-07-12,"Romance, Drama, Anime, Animation",Japanese
+94,The Look of Silence,2015-07-17,Documentary,Indonesian
+95,It Follows,2015-03-27,"Horror, Mystery & thriller",English
+96,The Gift,2015-08-07,Mystery & thriller,English
+97,21 Bridges,2019-11-22,"Action, Mystery & thriller, Crime, Drama",English
+98,The Courier,2021-03-19,"Mystery & thriller, History, Drama",English
+99,Raiders!,2016-06-17,Documentary,English
+100,The Painter and the Thief,2020-05-22,Documentary,English
+101,K.G.F: Chapter 2,2022-04-14,"Action, Crime, Drama",Kannada
+102,Vita Activa: The Spirit of Hannah Arendt,2016-04-06,Documentary,German
+103,Hitchcock/Truffaut,2015-12-02,Documentary,English
+104,Paper & Glue,2021-11-12,Documentary,English
+105,The Sky Is Pink,2019-10-11,Drama,English
+106,Clouds of Sils Maria,2015-04-10,Drama,English
+107,Leonor Will Never Die,2022-11-25,Drama,Filipino
+108,Sweat,2021-06-18,Drama,Polish
+109,Floyd Norman: An Animated Life,2016-08-26,Documentary,English
+110,Faith Based,2020-10-09,Comedy,English
+111,The Promise,2017-04-21,"History, Drama, Romance",English
+112,Theo & Hugo,2017-01-27,"Drama, Romance, Lgbtq+",French
+113,Queen of Katwe,2016-09-30,"Biography, Drama",English
+114,Hatching,2022-04-29,Horror,Finnish
+115,The Grief of Others,2018-11-02,Drama,English
+116,Monuments,2021-06-04,Comedy,English
+117,Grass,2019-04-19,Drama,Korean
+118,Held for Ransom,2021-10-15,Drama,Danish
+119,The Return of Tanya Tucker: Featuring Brandi Carlile,2022-10-21,"Documentary, Music",English
+120,Oh Lucy!,2018-03-02,"Comedy, Drama",English
+121,Ghostbox Cowboy,2018-11-30,"Comedy, Drama",English
+122,The Scent of Rain & Lightning,2018-02-16,"Mystery & thriller, Western",English
+123,Charm City,2018-10-12,Documentary,English
+124,Those Who Walk Away,2022-02-11,"Horror, Mystery & thriller",English
+125,My Tender Matador,2021-06-04,"Romance, Drama, Lgbtq+",Spanish
+126,Columbus,2017-08-04,Drama,English
+127,Appropriate Behavior,2015-01-16,"Comedy, Lgbtq+",English
+128,Buried: The 1982 Alpine Meadows Avalanche,2022-01-14,Documentary,English
+129,The 24 Hour War,2016-11-22,Documentary,English
+130,Unplanned,2019-03-29,"Biography, Drama",English
+131,When Marnie Was There,2015-05-22,"Kids & family, Drama, Fantasy, Mystery & thriller, Anime",Japanese
+132,Court,2015-07-15,Drama,Marathi
+133,Lost Holiday,2019-12-20,Comedy,English
+134,Glass Onion: A Knives Out Mystery,2022-11-23,"Mystery & thriller, Comedy, Drama",English
+135,The Eyes of Orson Welles,2019-03-15,"Documentary, Biography",English
+136,Father Stu,2022-04-13,"Biography, Drama",English
+137,LA 92,2017-04-28,Documentary,English
+138,Nigerian Prince,2018-10-19,"Drama, Mystery & thriller",English
+139,The Novelist's Film,2022-10-28,Drama,Korean
+140,No Bears,2022-12-23,"Drama, Romance",Persian
+141,The Work,2017-10-25,Documentary,English
+142,No Ordinary Man,2021-07-16,"Documentary, Music",English
+143,Don't Kill It,2017-03-03,"Horror, Fantasy, Action",English
+144,Alita: Battle Angel,2019-02-14,"Sci-fi, Action, Adventure, Fantasy, Animation",English
+145,Teacher,2019-08-02,Drama,English
+146,Spotlight,2015-11-20,Drama,English
+147,Hearing Is Believing,2017-06-16,"Documentary, Music",English
+148,Spoiler Alert,2022-12-09,"Comedy, Drama, Romance, Lgbtq+",English
+149,Hunt for the Wilderpeople,2016-06-24,"Comedy, Adventure",English
+150,A Tuba to Cuba,2019-02-15,"Documentary, Music",English
+151,Mali Blues,2017-06-30,"Documentary, Music",French
+152,Facing Nolan,2022-05-24,"Documentary, Biography",English
+153,Miss Stevens,2016-09-16,"Comedy, Drama",English
+154,I Lost My Body,2019-11-15,"Fantasy, Drama, Animation",French
+155,The Girl Who Believes in Miracles,2021-04-02,Drama,English
+156,The Confirmation,2016-03-18,"Comedy, Drama",English
+157,Atlantis,2021-01-22,Drama,Ukrainian
+158,Mr. Roosevelt,2017-10-27,Comedy,English
+159,The Endless,2018-04-06,"Horror, Sci-fi, Mystery & thriller",English
+160,"No Date, No Signature",2018-08-01,Drama,Persian
+161,The Race to Alaska,2022-05-19,Documentary,English
+162,Mickey and the Bear,2019-11-13,Drama,English
+163,Presenting Princess Shaw,2016-05-27,Documentary,English
+164,The Greatest Beer Run Ever,2022-09-30,"Comedy, Drama",English
+165,Tumbbad,2018-10-12,"Horror, Fantasy",Hindi
+166,From Nowhere,2017-02-17,Drama,English
+167,King Richard,2021-11-19,"Biography, Drama",English
+168,The Killing of Kenneth Chamberlain,2021-09-17,"Mystery & thriller, Drama",English
+169,Fresh Dressed,2015-06-26,Documentary,English
+170,A Band Called Impaled Rektum,2018-10-05,"Comedy, Music",Finnish
+171,Arabian Nights: Volume 1 -- The Restless One,2015-12-04,Drama,Portuguese
+172,Human Flow,2017-10-13,Documentary,English
+173,Good Time,2017-08-25,"Mystery & thriller, Crime, Drama",English
+174,Cold War,2018-12-21,"Romance, Drama",Polish
+175,We Come as Friends,2015-08-14,Documentary,English
+176,Journey's End,2018-03-16,"War, History, Drama",English
+177,First Reformed,2018-05-18,"Mystery & thriller, Drama",English
+178,Superpower Dogs,2019-03-15,Documentary,English
+179,Jane,2017-10-20,Documentary,English
+180,Baby Done,2021-01-22,Comedy,English
+181,Toni Morrison: The Pieces I Am,2019-06-21,Documentary,English
+182,Joy Ride,2021-10-29,"Comedy, Documentary",English
+183,Good Night Oppy,2022-11-04,Documentary,English
+184,5-25-77,2022-09-23,Comedy,English
+185,Half the Picture,2018-06-08,Documentary,English
+186,Brimstone & Glory,2017-10-27,Documentary,Spanish
+187,The Last Man on the Moon,2016-02-26,"Documentary, Adventure, Biography",English
+188,The Fight,2020-07-31,Documentary,English
+189,Simchas and Sorrows,2022-09-16,"Comedy, Drama, Romance",English
+190,Capernaum,2018-12-14,Drama,Arabic
+191,Baden Baden,2016-11-25,"Comedy, Drama",French
+192,Just Don't Think I'll Scream,2020-02-19,"Documentary, Drama",French
+193,Toni Erdmann,2016-12-25,"Comedy, Drama",German
+194,The Jungle Book,2016-04-15,"Kids & family, Adventure, Action, Fantasy",English
+195,Baby Driver,2017-06-28,"Action, Mystery & thriller",English
+196,Raw,2017-03-10,"Horror, Drama",French
+197,MVP,2022-09-14,Drama,English
+198,Tigers Are Not Afraid,2019-08-23,"Fantasy, Mystery & thriller, Horror",Spanish
+199,Abe & Phil's Last Poker Game,2018-01-12,"Comedy, Drama",English
+200,Generational Sins,2017-10-06,Drama,English
+201,The Civil Dead,2023-02-03,Comedy,English
+202,For Ahkeem,2017-10-13,Documentary,English
+203,East Side Sushi,2015-09-18,"Comedy, Drama",English
+204,Dunkirk,2017-07-21,"War, History, Drama",English
+205,Test Pattern,2021-02-12,"Drama, Mystery & thriller",English
+206,One Fine Morning,2022-12-09,"Drama, Romance",French
+207,Some Like It Rare,2022-10-07,"Horror, Comedy",French
+208,The Chambermaid,2019-06-26,Drama,Spanish
+209,John Lewis: Good Trouble,2020-07-03,Documentary,English
+210,American Murderer,2022-10-21,"Crime, Drama, Mystery & thriller",English
+211,The Nile Hilton Incident,2017-08-11,"Mystery & thriller, Crime, Drama",Arabic
+212,Graduation,2017-04-07,"Drama, Crime",Romanian
+213,Belle,2022-01-14,"Fantasy, Adventure, Anime, Romance, Musical",Japanese
+214,Women Who Kill,2017-07-26,"Comedy, Mystery & thriller, Lgbtq+",English
+215,Bathtubs Over Broadway,2018-11-30,Documentary,English
+216,Downton Abbey: A New Era,2022-05-20,Drama,English
+217,The Alpinist,2021-09-10,Documentary,English
+218,My Name Is Pauli Murray,2021-09-17,Documentary,English
+219,Cemetery of Splendor,2016-03-04,Drama,Thai
+220,A Cop Movie,2021-10-20,Drama,Spanish
+221,Truman,2017-04-07,"Comedy, Drama",Spanish
+222,The Last Black Man in San Francisco,2019-06-07,Drama,English
+223,Faults,2015-03-06,"Drama, Mystery & thriller",English
+224,Man in Red Bandana,2017-09-08,Documentary,English
+225,The Good Boss,2022-08-26,"Drama, Comedy",Spanish
+226,Gett: The Trial of Viviane Amsalem,2015-02-15,Drama,Hebrew
+227,Ask Dr. Ruth,2019-05-03,Documentary,English
+228,All Square,2018-10-12,Comedy,English
+229,Lost Soul: The Doomed Journey of Richard Stanley's Island of Dr. Moreau,2015-02-27,"Documentary, Adventure",English
+230,After Ever Happy,2022-09-07,"Romance, Drama",English
+231,Radio Dreams,2017-05-19,Comedy,Persian
+232,"Life, Animated",2016-07-01,Documentary,English
+233,Outside In,2018-03-30,Drama,English
+234,Lives Well Lived,2018-02-16,Documentary,English
+235,"Bo Gia (Dad, I'm Sorry)",2021-05-28,"Comedy, Drama",Vietnamese
+236,Jazz Fest: A New Orleans Story,2022-05-13,"Documentary, Music",English
+237,Emergency,2022-05-20,"Comedy, Drama",English
+238,Vitalina Varela,2020-02-21,Drama,Portuguese
+239,Buoyancy,2020-09-11,Drama,English
+240,A Prayer Before Dawn,2018-08-10,"Action, Mystery & thriller",English
+241,Faces Places,2017-10-06,Documentary,French
+242,Tahara,2022-06-10,Drama,English
+243,At the Heart of Gold: Inside the USA Gymnastics Scandal,2019-05-03,Documentary,English
+244,Monos,2019-09-13,"Mystery & thriller, Adventure",English
+245,Funan,2019-06-07,Drama,French
+246,The Capote Tapes,2021-09-10,Documentary,English
+247,Raya and the Last Dragon,2021-03-05,"Kids & family, Fantasy, Adventure, Animation",English
+248,Whose Streets?,2017-08-11,Documentary,English
+249,A Crime on the Bayou,2021-06-18,Documentary,English
+250,A Midsummer Night's Dream,2015-06-22,"Comedy, Fantasy",English
+251,Nasrin,2020-10-01,Documentary,Persian
+252,Zama,2018-04-13,"History, Drama",Spanish
+253,The Girl in the Book,2015-12-11,Drama,English
+254,Bad Axe,2022-11-18,Documentary,English
+255,The Wild Pear Tree,2019-01-30,Drama,Turkish
+256,Rams,2016-02-03,"Comedy, Drama",Icelandic
+257,Frantz,2017-03-15,"History, Drama",French
+258,The Personal History of David Copperfield,2020-08-28,"Comedy, Drama",English
+259,Palm Springs,2020-07-10,"Romance, Comedy",English
+260,The Diary of a Teenage Girl,2015-08-07,Drama,English
+261,Sing Street,2016-05-13,"Comedy, Drama, Romance, Music",English
+262,Heart of a Dog,2015-10-21,Documentary,English
+263,Bad Blood: The Movie,2017-10-13,Horror,English
+264,Billie,2020-12-04,"Documentary, Music, Biography",English
+265,Logan Lucky,2017-08-18,"Comedy, Crime, Drama",English
+266,A Quiet Place,2018-04-06,"Horror, Mystery & thriller",English
+267,Sami Blood,2017-06-02,Drama,Swedish
+268,Studio 54: The Documentary,2018-10-05,"Documentary, Lgbtq+",English
+269,40 Years in the Making: The Magic Music Movie,2018-08-03,Documentary,English
+270,Over the Limit,2018-10-12,Documentary,Russian
+271,A Skin So Soft,2018-06-15,Documentary,English
+272,This Is Congo,2018-06-29,"Documentary, History, Drama, War",English
+273,Colliding Dreams,2016-02-19,Documentary,English
+274,Mouthpiece,2019-05-31,Drama,English
+275,Spies in Disguise,2019-12-25,"Kids & family, Comedy, Adventure, Action, Animation",English
+276,Spirit Game: Pride of a Nation,2017-05-26,Documentary,English
+277,Promare,2019-09-20,"Adventure, Sci-fi, Anime",Japanese
+278,Billie Eilish: The World's a Little Blurry,2021-02-26,"Documentary, Music",English
+279,1000 Rupee Note,2016-09-23,Drama,Marathi
+280,Hagazussa: A Heathen's Curse,2019-04-19,Horror,German
+281,Spettacolo,2017-09-06,Documentary,Italian
+282,Compartment No. 6,2022-01-26,Drama,Russian
+283,You Won't Be Alone,2022-04-01,"Horror, Drama",Macedonian
+284,The Teacher,2017-08-30,"Comedy, Drama",Slovak
+285,Neptune Frost,2022-06-03,"Musical, Sci-fi",Swahili
+286,The Automat,2022-02-18,Documentary,English
+287,All Saints,2017-08-25,Drama,English
+288,Goldie,2020-02-21,Drama,English
+289,Keep Quiet,2017-02-17,Documentary,English
+290,Tales of an Immoral Couple,2017-08-25,"Romance, Comedy",Spanish
+291,Riders of Justice,2021-05-14,"Action, Mystery & thriller, Comedy",Danish
+292,Call Her Ganda,2018-09-21,Documentary,Filipino
+293,Marry Me,2022-02-11,"Romance, Comedy",English
+294,A Silent Voice,2017-10-20,"Drama, Romance, Anime",Japanese
+295,Neerja,2016-02-19,"Biography, Drama",Hindi
+296,Bluebird,2019-11-15,"Documentary, Music",English
+297,A Quiet Passion,2017-04-14,"Biography, History, Drama",English
+298,Harpoon,2019-10-04,"Mystery & thriller, Comedy",English
+299,Ordinary Love,2020-02-14,"Drama, Romance",English
+300,INU-OH,2022-08-12,"Fantasy, Anime, Musical",Japanese
+301,First Cow,2020-03-06,"Western, Drama",English
+302,Give or Take,2022-02-11,"Comedy, Drama",English
+303,I Am Not a Witch,2018-09-07,Drama,English
+304,Princess of the Row,2020-11-27,Drama,English
+305,I Do Not Care If We Go Down in History as Barbarians,2019-07-19,"Comedy, Drama",Romanian
+306,Wildland,2021-08-20,"Crime, Drama, Mystery & thriller",Danish
+307,The Burial of Kojo,2019-03-29,"Drama, Mystery & thriller",English
+308,Served Like a Girl,2017-08-25,Documentary,English
+309,Be Natural: The Untold Story of Alice Guy-Blaché,2019-03-15,Documentary,English
+310,Theeb,2015-11-06,"Adventure, Drama, Mystery & thriller",Arabic
+311,Firecrackers,2019-07-12,Drama,English
+312,Happening,2022-05-06,Drama,French
+313,In the Heights,2021-06-10,Musical,English
+314,TransFatty Lives,2015-11-20,"Biography, Documentary",English
+315,16 Bars,2019-11-08,Documentary,English
+316,A Writer's Odyssey,2021-02-12,"Action, Fantasy",Chinese
+317,The Quiet Girl,2022-12-16,Drama,English
+318,Trophy,2017-09-08,Documentary,English
+319,Sublet,2021-06-11,"Comedy, Drama, Lgbtq+",English
+320,Invisible Life,2019-12-20,"Drama, Romance",Portuguese
+321,Servants,2022-02-25,Drama,Slovak
+322,The Great Buster: A Celebration,2018-10-05,Documentary,English
+323,Straight Outta Compton,2015-08-14,"Biography, Drama, Music",English
+324,Lost Inside,2022-08-02,"Comedy, Drama",English
+325,Border,2018-10-26,"Fantasy, Horror, Mystery & thriller, Romance",Swedish
+326,Hunter Hunter,2020-12-18,"Horror, Mystery & thriller",English
+327,Drishyam 2,2022-11-18,"Action, Mystery & thriller",Hindi
+328,My Prince Edward,2020-09-04,Drama,English
+329,Maya Angelou and Still I Rise,2016-10-14,Documentary,English
+330,Escape From Mogadishu,2021-08-06,"War, Drama, Mystery & thriller",Korean
+331,Woman in Motion,2021-02-02,Documentary,English
+332,Raise Hell: The Life & Times of Molly Ivins,2019-08-30,Documentary,English
+333,12 Mighty Orphans,2021-06-11,"History, Drama",English
+334,The Father,2021-02-26,Drama,English
+335,The Rose Maker,2022-04-01,"Comedy, Drama",French
+336,It's Not Yet Dark,2017-08-04,Documentary,English
+337,The Phantom,2021-07-02,Documentary,English
+338,Two of Us,2021-02-05,"Drama, Romance, Lgbtq+",French
+339,Midnight,2022-04-01,Mystery & thriller,Korean
+340,Just Mercy,2020-01-10,Drama,English
+341,What We Do in the Shadows,2015-02-13,"Comedy, Horror",English
+342,Inventing Tomorrow,2018-08-31,Documentary,English
+343,Battle for Saipan,2022-11-25,"War, History, Drama, Action",English
+344,Guillermo del Toro's Pinocchio,2022-11-09,"Musical, Fantasy, Animation",English
+345,Licorice Pizza,2021-12-25,Comedy,English
+346,Creed,2015-11-25,Drama,English
+347,What Is Democracy?,2019-01-16,Documentary,English
+348,The Woman Who Ran,2021-07-09,"Comedy, Drama",Korean
+349,Kusama: Infinity,2018-09-07,Documentary,English
+350,Assassins,2020-12-11,"Documentary, Biography",Vietnamese
+351,The Departure,2017-10-13,Documentary,Japanese
+352,Blue Jay,2016-10-07,Drama,English
+353,Nothing Like a Dame,2018-09-21,Documentary,English
+354,Shang-Chi and the Legend of the Ten Rings,2021-09-03,"Action, Adventure, Fantasy",English
+355,Aladdin,2019-05-24,"Kids & family, Musical, Comedy, Fantasy, Adventure, Romance",English
+356,A River Below,2017-11-03,Documentary,English
+357,Only the Animals,2021-10-29,"Mystery & thriller, Lgbtq+",French
+358,Hit the Road,2022-04-22,"Comedy, Drama",Persian
+359,Rebels on Pointe,2017-11-15,"Documentary, Lgbtq+",English
+360,Everybody's Everything,2019-11-15,"Documentary, Music",English
+361,Becoming Astrid,2018-11-23,"Biography, History, Drama",Swedish
+362,Dolemite Is My Name,2019-10-04,"Biography, Comedy, Drama",English
+363,Dead Pigs,2021-06-28,"Comedy, Drama",Chinese
+364,Paterson,2016-12-28,Drama,English
+365,Meru,2015-08-14,Documentary,English
+366,Monkey Kingdom,2015-04-17,Documentary,English
+367,Pacifiction,2023-02-17,"Drama, Mystery & thriller",French
+368,Terra Willy,2020-10-23,"Kids & family, Comedy, Adventure, Sci-fi, Animation",French
+369,Belfast,2021-11-12,Drama,English
+370,The Second Time Around,2018-12-14,Romance,English
+371,The Rider,2018-04-13,"Drama, Western",English
+372,Stray,2021-03-05,Documentary,Chinese
+373,Close,2022-12-02,Drama,French
+374,Waterman,2022-04-01,"Documentary, Biography",English
+375,Dear Comrades!,2021-01-29,"History, Drama",Russian
+376,Final Account,2021-05-21,Documentary,German
+377,Becoming Cousteau,2021-10-22,"Documentary, Biography",English
+378,The Island,2018-08-10,"Comedy, Adventure",Chinese
+379,Among Wolves,2018-11-04,Documentary,Croatian
+380,The Tutor,2023-03-24,Mystery & thriller,English
+381,The Bleeding Edge,2018-07-27,Documentary,English
+382,"Hale County This Morning, This Evening",2018-09-14,Documentary,English
+383,Finding You,2021-05-14,"Romance, Comedy",English
+384,Echo Boomers,2020-11-13,"Mystery & thriller, Crime, Drama",English
+385,Little Sister,2016-10-14,"Comedy, Drama",English
+386,X,2022-03-18,"Horror, Mystery & thriller",English
+387,Dark Waters,2019-12-06,"Drama, Mystery & thriller",English
+388,Blood From Stone,2020-10-30,"Horror, Mystery & thriller",English
+389,Jawline,2019-08-23,Documentary,English
+390,The Freedom to Marry,2017-03-03,"Documentary, Lgbtq+",English
+391,Rock Camp: The Movie,2021-01-15,"Documentary, Music",English
+392,Dance Academy: The Movie,2018-03-02,Drama,English
+393,Life and Nothing More,2018-10-24,Drama,English
+394,Working Woman,2019-03-27,Drama,Hebrew
+395,Pray: The Story of Patrick Peyton,2020-10-09,Documentary,English
+396,Jujutsu Kaisen 0: The Movie,2022-03-18,"Fantasy, Action, Adventure, Anime",Japanese
+397,After the Storm,2017-03-17,Drama,Japanese
+398,Fantastic Fungi,2019-10-11,Documentary,English
+399,On Her Shoulders,2018-10-19,Documentary,English
+400,Support the Girls,2018-08-24,Comedy,English
+401,Alone,2020-09-18,Mystery & thriller,English
+402,A Fantastic Woman,2018-02-02,"Drama, Lgbtq+",Spanish
+403,Everything Everywhere All at Once,2022-04-08,"Comedy, Adventure, Sci-fi, Fantasy",English
+404,Asia,2021-06-11,Drama,Hebrew
+405,The Killer,2022-07-13,"Action, Mystery & thriller",Korean
+406,Not Going Quietly,2021-08-13,Documentary,English
+407,Stefan Zweig: Farewell to Europe,2017-05-12,"Biography, History, Drama",German
+408,Atlantics,2019-11-15,Drama,Wolof
+409,American Relapse,2019-03-29,Documentary,English
+410,Panga,2020-01-24,Drama,Hindi
+411,Holler,2021-06-11,Drama,English
+412,Saand Ki Aankh,2019-10-25,"Comedy, Drama",Hindi
+413,Daughter,2023-02-10,"Mystery & thriller, Horror",English
+414,If the Dancer Dances,2019-04-26,Documentary,English
+415,Division 19,2019-04-05,"Mystery & thriller, Sci-fi, Action",English
+416,Respect,2021-08-13,"Biography, Drama, Music",English
+417,Brother's Keeper,2022-10-21,"Drama, Mystery & thriller",English
+418,Godzilla vs. Kong,2021-03-31,"Sci-fi, Action, Adventure",English
+419,The First Film,2016-09-08,Biography,English
+420,Humpback Whales,2015-02-13,Documentary,English
+421,Inside Out,2015-06-19,"Kids & family, Comedy, Fantasy, Animation",English
+422,Disturbing the Peace,2016-11-11,Documentary,English
+423,Midnight Family,2019-12-06,"Documentary, Action, Crime, Drama",Spanish
+424,The Proposal,2019-05-24,Documentary,English
+425,Restoring Tomorrow,2018-04-27,Documentary,English
+426,Killing for Love,2017-12-15,Documentary,English
+427,The Dark Horse,2016-04-01,"Biography, Drama",English
+428,Always in Season,2019-09-20,Documentary,English
+429,Incitement,2020-01-31,Drama,English
+430,The Other Fellow,2023-02-17,"Biography, Documentary",English
+431,Lunana: A Yak in the Classroom,2022-01-21,"Drama, Romance, Comedy",Dzongkha
+432,3 Faces,2019-03-08,Drama,Persian
+433,On the Beach at Night Alone,2017-11-17,Drama,Korean
+434,Honeyland,2019-07-26,Documentary,Turkish
+435,The Age of Shadows,2016-09-23,"Action, Mystery & thriller",Korean
+436,Say Your Prayers,2021-04-02,Comedy,English
+437,"I, Daniel Blake",2017-06-02,Drama,English
+438,The Fabelmans,2022-11-23,Drama,English
+439,Maiden,2019-06-28,Documentary,English
+440,The Way I See It,2020-09-18,Documentary,English
+441,Zootopia,2016-03-04,"Kids & family, Comedy, Adventure, Animation",English
+442,Jay and Silent Bob Reboot,2019-10-15,Comedy,English
+443,The World Before Your Feet,2018-11-21,Documentary,English
+444,Hustle,2022-06-03,Drama,English
+445,A Man Called Ove,2016-09-30,"Comedy, Drama",Swedish
+446,Enter the Fat Dragon,2020-02-14,"Action, Comedy",Chinese
+447,The Loneliest Boy in the World,2022-10-14,"Comedy, Horror",English
+448,Lion,2016-12-21,"Drama, Biography",English
+449,Elvis,2022-06-24,"Biography, Drama, Music",English
+450,Penguin Highway,2019-04-12,"Adventure, Anime",Japanese
+451,Val,2021-07-23,"Documentary, Biography",English
+452,RRR,2022-03-25,"Action, Drama",Telugu
+453,June Again,2022-01-07,"Comedy, Drama",English
+454,Alive and Kicking,2017-04-07,"Documentary, Music",English
+455,The Last Vermeer,2020-11-20,Drama,English
+456,MLK/FBI,2021-01-15,Documentary,English
+457,My Policeman,2022-10-21,"Romance, Drama, Lgbtq+",English
+458,Two Step,2015-07-31,"Mystery & thriller, Crime, Drama",English
+459,Blood on Her Name,2020-02-28,"Crime, Drama, Mystery & thriller",English
+460,Saloum,2022-09-02,"Horror, Mystery & thriller, Action",French
+461,Private Life,2018-10-05,"Comedy, Drama",English
+462,The Wild Boys,2018-08-24,"Adventure, Fantasy",French
+463,Judas and the Black Messiah,2021-02-12,"History, Drama, Biography",English
+464,Black Panther,2018-02-16,"Action, Adventure, Fantasy",English
+465,Days of the Bagnold Summer,2021-02-19,Comedy,English
+466,Rumble: The Indians Who Rocked the World,2017-07-26,"Documentary, Music",English
+467,The Pez Outlaw,2022-10-21,Documentary,English
+468,Happy Hunting,2017-09-22,"Horror, Mystery & thriller",English
+469,Microbe and Gasoline,2016-07-01,"Comedy, Adventure",French
+470,The Uncondemned,2016-10-21,Documentary,English
+471,Ainu Mosir,2020-11-17,Drama,Japanese
+472,Far From the Tree,2018-07-20,Documentary,English
+473,All the Rage,2017-06-23,Documentary,English
+474,El Camino: A Breaking Bad Movie,2019-10-11,"Crime, Drama",English
+475,The United States of Insanity,2021-10-26,"Documentary, Music",English
+476,Escape From Extinction,2020-10-16,Documentary,English
+477,Harold and Lillian: A Hollywood Love Story,2017-04-28,Documentary,English
+478,Finding Kendrick Johnson,2021-10-29,Documentary,English
+479,The Most Dangerous Year,2019-04-12,Documentary,English
+480,The Tragedy of Macbeth,2021-12-25,"Drama, Mystery & thriller",English
+481,Wheel of Fortune and Fantasy,2021-10-15,"Drama, Romance",Japanese
+482,Swan Song,2021-08-06,"Drama, Lgbtq+",English
+483,Let It Be Morning,2023-02-03,"Comedy, Drama",Arabic
+484,The Crime of Monsieur Lange,2017-11-17,"Comedy, Drama",French
+485,Ash Is Purest White,2019-03-15,"Drama, Romance",Chinese
+486,My Heart Can't Beat Unless You Tell It To,2021-06-25,"Horror, Drama",English
+487,Mike Wallace Is Here,2019-07-26,"Documentary, Biography",English
+488,Portrait of a Lady on Fire,2019-12-06,"Romance, History, Drama, Lgbtq+",French
+489,The Fits,2016-06-03,Drama,English
+490,The Swimmer,2022-10-07,"Lgbtq+, Drama",Hebrew
+491,Song of Lahore,2015-11-13,"Documentary, Music",English
+492,Jimmy Carter: Rock & Roll President,2020-09-09,"Documentary, Music",English
+493,The Sparring Partner,2022-12-09,"Crime, Drama, Mystery & thriller",Chinese
+494,Jockey,2021-12-29,Drama,English
+495,Utama,2022-11-04,Drama,Spanish
+496,The Last Full Measure,2020-01-24,"War, Drama",English
+497,Penguins,2019-04-17,Documentary,English
+498,Girls Trip,2017-07-21,Comedy,English
+499,Hold Your Fire,2022-05-20,"Documentary, History",English
+500,Marlina the Murderer in Four Acts,2018-06-22,"Mystery & thriller, Drama, Western",Indonesian
+501,Gunda,2021-04-16,Documentary,English
+502,Heal the Living,2017-04-14,Drama,French
+503,American Underdog,2021-12-25,"Biography, Drama",English
+504,Tikkun,2016-06-10,Drama,Hebrew
+505,Moffie,2021-04-09,"War, Drama",English
+506,Crock of Gold: A Few Rounds With Shane MacGowan,2020-12-04,"Documentary, Music",English
+507,Harry & Snowman,2016-09-30,Documentary,English
+508,Thelma,2017-11-10,"Mystery & thriller, Horror",Norwegian
+509,Linda Ronstadt: The Sound of My Voice,2019-09-06,"Documentary, Music",English
+510,The Bad Guys,2022-04-22,"Kids & family, Comedy, Adventure, Animation",English
+511,Uncle Howard,2016-11-18,"Documentary, Biography",English
+512,The Forbidden Room,2015-10-07,"Comedy, Drama, Mystery & thriller",English
+513,Step,2017-08-04,Documentary,English
+514,Decision to Leave,2022-10-14,"Mystery & thriller, Crime, Drama, Romance",Korean
+515,Minari,2021-02-12,Drama,English
+516,Together Together,2021-04-23,"Comedy, Drama",English
+517,Some Freaks,2017-08-04,"Comedy, Drama, Romance",English
+518,Hotel by the River,2019-02-15,Drama,Korean
+519,Sardar Udham,2021-10-01,"History, Drama, Biography",Hindi
+520,Fyre,2019-01-18,Documentary,English
+521,I Am the Blues,2017-07-12,"Documentary, Music, History, Drama",English
+522,Swallows and Amazons,2017-07-14,"Adventure, Drama",English
+523,House of Hummingbird,2020-06-26,Drama,Korean
+524,Thunder Road,2018-10-12,"Comedy, Drama",English
+525,Merata: How Mum Decolonised the Screen,2019-05-10,"Documentary, Biography",English
+526,Ghostbusters: Afterlife,2021-11-19,"Comedy, Fantasy, Adventure",English
+527,Writing with Fire,2021-11-26,Documentary,Hindi
+528,Cameraperson,2016-09-09,Documentary,English
+529,The Art of Racing in the Rain,2019-08-09,"Comedy, Drama",English
+530,Diane,2019-03-29,Drama,English
+531,Black and Blue,2019-10-25,"Mystery & thriller, Crime, Drama, Action",English
+532,Feels Good Man,2020-09-04,Documentary,English
+533,Félicité,2017-10-27,Drama,Lingala
+534,Jojo Rabbit,2019-11-08,"Comedy, Drama",English
+535,Created Equal: Clarence Thomas in His Own Words,2020-01-31,Documentary,English
+536,Boy and the World,2015-12-11,"Kids & family, Adventure, Animation",Portuguese
+537,You Resemble Me,2022-11-04,Drama,French
+538,Peace Officer,2015-09-16,"Documentary, Crime, Drama",English
+539,Section 375,2019-09-13,"Crime, Drama",Hindi
+540,Slash/Back,2022-10-21,"Horror, Sci-fi, Action, Mystery & thriller",English
+541,The Unicorn,2019-02-01,Comedy,English
+542,Searching,2018-08-31,Mystery & thriller,English
+543,Asperger's Are Us,2016-11-11,"Documentary, Comedy, Drama",English
+544,Spa Night,2016-08-19,"Drama, Lgbtq+",Korean
+545,Ascension,2021-10-08,Documentary,Chinese
+546,Is That Black Enough for You?!?,2022-10-28,Documentary,English
+547,EO,2022-11-18,Drama,Polish
+548,The Armor of Light,2015-10-30,Documentary,English
+549,Chasing the Win,2018-08-31,Documentary,English
+550,A Beautiful Planet,2016-04-29,Documentary,English
+551,The Hidden Life of Trees,2021-07-16,Documentary,German
+552,Return to Seoul,2022-12-02,Drama,English
+553,The Measure of a Man,2016-04-15,Drama,French
+554,Aferim!,2016-01-22,"History, Drama, Western, Comedy",Romanian
+555,Vikram Vedha,2022-09-30,"Action, Mystery & thriller",Hindi
+556,Nossa Chape,2018-06-01,Documentary,Portuguese
+557,Betrayed,2021-12-03,"History, Drama, War",Norwegian
+558,Legion of Brothers,2017-05-19,Documentary,English
+559,Room,2016-01-22,Drama,English
+560,Queen of Paradis,2020-03-06,Documentary,English
+561,¡Viva Maestro!,2022-04-08,"Documentary, Music, Biography",English
+562,Language Lessons,2021-09-10,"Comedy, Drama",English
+563,Sin,2021-02-19,"Biography, History, Drama",Italian
+564,Slow West,2015-05-15,"Western, Mystery & thriller",English
+565,Be Here Now (The Andy Whitfield Story),2016-04-08,Documentary,English
+566,Parasite,2019-11-01,"Comedy, Mystery & thriller, Drama",Korean
+567,The Russian Five,2019-03-22,Documentary,English
+568,Call Me by Your Name,2018-01-19,"Romance, Drama, Lgbtq+",English
+569,The Bill Murray Stories: Life Lessons Learned From a Mythical Man,2018-09-28,Documentary,English
+570,11:55,2017-06-09,"Crime, Drama",English
+571,Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb,2022-12-30,"Documentary, Biography",English
+572,"Goodbye, Petrushka",2022-07-15,"Romance, Comedy",English
+573,Ex Libris: The New York Public Library,2017-09-13,Documentary,English
+574,In This Corner of the World,2017-08-11,"History, Drama, War, Anime",Japanese
+575,Turn It Around: The Story of East Bay Punk,2017-05-31,"Documentary, Music",English
+576,The Edge of Seventeen,2016-11-18,"Comedy, Drama",English
+577,American Siege,2022-01-07,"Action, Mystery & thriller",English
+578,A Quiet Place Part II,2021-05-28,"Horror, Mystery & thriller",English
+579,Official Competition,2022-06-17,"Comedy, Drama",Spanish
+580,The Mermaid,2016-02-19,"Comedy, Fantasy",Chinese
+581,Midnight Traveler,2019-09-18,"Documentary, War",Persian
+582,Our American Family,2022-09-02,Documentary,English
+583,Desert One,2020-08-21,Documentary,English
+584,Gilbert,2017-11-03,Documentary,English
+585,Haunt,2019-09-13,"Holiday, Horror, Mystery & thriller",English
+586,Minding the Gap,2018-08-17,Documentary,English
+587,Meadowland,2015-10-16,Drama,English
+588,Gloria,2015-07-17,"Biography, Drama",Spanish
+589,Combat Obscura,2019-03-15,Documentary,English
+590,Tread,2020-02-28,Documentary,English
+591,The Brooklyn Banker,2016-08-05,"Crime, Drama",English
+592,Three Minutes - A Lengthening,2022-08-19,Documentary,English
+593,Chavela,2017-10-04,"Documentary, Music",Spanish
+594,Sing a Bit of Harmony,2022-01-23,"Drama, Anime",Japanese
+595,The Biggest Little Farm,2019-05-10,Documentary,English
+596,Dina,2017-10-06,Documentary,English
+597,Spider-Man: Into the Spider-Verse,2018-12-14,"Kids & family, Action, Adventure, Comedy, Fantasy, Animation",English
+598,In from the Side,2023-01-20,"Drama, Lgbtq+, Sports, Romance",English
+599,Little Fish,2021-02-05,"Romance, Drama, Sci-fi",English
+600,Find Me,2019-05-31,Drama,English
+601,7 Prisoners,2021-11-05,Drama,Portuguese
+602,After We Collided,2020-10-23,"Romance, Drama",English
+603,Blinded by the Light,2019-08-16,"Comedy, Drama, Music",English
+604,Green Book,2018-11-21,"Comedy, Drama",English
+605,Secret Superstar,2017-10-20,"Drama, Music",Hindi
+606,Can You Ever Forgive Me?,2018-10-19,"Biography, Comedy, Drama, Lgbtq+",English
+607,Infinite Football,2018-11-09,Documentary,Romany
+608,The Martian,2015-10-02,"Sci-fi, Adventure, Drama",English
+609,Spider-Man: Far From Home,2019-07-02,"Action, Adventure, Fantasy, Comedy",English
+610,Ahead of the Curve,2021-05-28,"Documentary, Lgbtq+",English
+611,Pretty Problems,2022-10-07,"Romance, Comedy, Drama",English
+612,Crazy Rich Asians,2018-08-15,"Romance, Comedy",English
+613,Birthright: A War Story,2017-07-14,Documentary,English
+614,The Favourite,2018-12-14,"Comedy, Drama",English
+615,The Human Factor,2021-01-22,Documentary,English
+616,Margrete: Queen of the North,2021-12-17,"History, Drama",Danish
+617,From the Hood to the Holler,2022-09-16,Documentary,English
+618,Delicious,2022-01-14,"Comedy, History, Drama",French
+619,Drunk Bus,2021-05-21,"Comedy, Drama",English
+620,"All Light, Everywhere",2021-06-04,Documentary,English
+621,Angkor Awakens: A Portrait of Cambodia,2017-05-05,Documentary,English
+622,The Peanut Butter Falcon,2019-08-23,"Comedy, Drama, Adventure",English
+623,Pearl Jam: Let's Play Two,2017-09-29,"Documentary, Music",English
+624,Slalom,2021-04-09,Drama,French
+625,La familia,2018-08-03,Drama,Spanish
+626,Hacksaw Ridge,2016-11-04,"War, History, Drama, Biography",English
+627,Clifford the Big Red Dog,2021-11-10,"Kids & family, Comedy, Adventure",English
+628,Welcome to Leith,2015-09-09,Documentary,English
+629,The Vast of Night,2020-05-15,"Fantasy, Mystery & thriller",English
+630,Long Strange Trip,2017-05-26,"Documentary, Music",English
+631,The Storyteller,2018-09-21,"Drama, Fantasy",English
+632,Only in Theaters,2022-11-18,"Documentary, Biography, History",English
+633,Blind Ambition,2022-09-02,Documentary,English
+634,Some Kind of Heaven,2021-01-15,Documentary,English
+635,Good Fortune,2017-06-22,Documentary,English
+636,My Hero Academia: World Heroes' Mission,2021-10-29,"Action, Adventure, Anime",Japanese
+637,Wild Tales,2015-02-20,"Comedy, Drama",Spanish
+638,Transformer,2018-10-12,Documentary,English
+639,99 Homes,2015-10-09,Drama,English
+640,Bridge of Spies,2015-10-16,"History, Drama, Mystery & thriller",English
+641,Machines,2017-08-09,Documentary,Hindi
+642,The Last Resort,2018-12-21,Documentary,English
+643,"Scream, Queen! My Nightmare on Elm Street",2020-02-27,"Documentary, Lgbtq+",English
+644,A Brave Heart: The Lizzie Velasquez Story,2015-09-25,Documentary,English
+645,April and the Extraordinary World,2016-04-08,"Sci-fi, Adventure, Animation",French
+646,After Auschwitz,2018-04-20,Documentary,English
+647,This Magnificent Cake!,2019-03-01,"Comedy, Drama, Animation",Dutch
+648,Rocketry: The Nambi Effect,2022-07-01,"Drama, Biography",English
+649,Take Me Somewhere Nice,2021-06-11,Drama,Bosnian
+650,Kangaroo,2018-01-19,Documentary,English
+651,Paddington,2015-01-16,"Kids & family, Comedy, Adventure",English
+652,Wexford Plaza,2017-10-27,Comedy,English
+653,Wild Rose,2019-06-21,"Comedy, Drama, Music",English
+654,Command and Control,2016-09-14,Documentary,English
+655,Hell Hath No Fury,2021-11-05,"War, Action, Drama",English
+656,The Wandering Soap Opera,2019-05-17,"Comedy, Drama",Spanish
+657,Sonic the Hedgehog,2020-02-14,"Kids & family, Comedy, Adventure, Fantasy",English
+658,Lonesome,2023-02-17,"Drama, Lgbtq+",English
+659,Never Gonna Snow Again,2021-07-30,"Comedy, Drama",Polish
+660,Spontaneous,2020-10-02,"Comedy, Horror, Romance",English
+661,Love & Bananas: An Elephant Story,2018-04-27,Documentary,English
+662,Moonlight,2016-11-18,"Drama, Lgbtq+",English
+663,Hidden Figures,2017-01-06,"History, Drama",English
+664,Widows,2018-11-16,"Mystery & thriller, Crime, Drama",English
+665,Shaft,2019-06-14,"Action, Comedy",English
+666,Abacus: Small Enough to Jail,2017-05-19,Documentary,English
+667,The Cat and the Moon,2019-10-25,Drama,English
+668,Mad Max: Fury Road,2015-05-15,"Action, Adventure",English
+669,1985,2018-10-26,"Drama, Lgbtq+",English
+670,In Her Name,2016-12-02,Drama,French
+671,Weiner,2016-05-20,Documentary,English
+672,The Spy Gone North,2018-08-10,Drama,Korean
+673,1982,2022-06-10,"History, Drama, War",Arabic
+674,The Outfit,2022-03-18,"Mystery & thriller, Crime, Drama",English
+675,Wildhood,2022-06-17,"Drama, Lgbtq+",English
+676,Seed: The Untold Story,2016-09-23,Documentary,English
+677,Uncertain,2017-03-09,"Documentary, Comedy, Drama",English
+678,Back to the Drive-In,2022-08-12,Documentary,English
+679,Downfall: The Case Against Boeing,2022-02-18,Documentary,English
+680,Marcel the Shell with Shoes On,2022-07-22,"Kids & family, Comedy, Animation",English
+681,Big Sonia,2017-11-17,Documentary,English
+682,Girl Picture,2022-08-12,"Drama, Romance",Finnish
+683,One Child Nation,2019-08-09,Documentary,English
+684,Burning Cane,2019-10-25,Drama,English
+685,Spring Blossom,2021-05-21,"Comedy, Drama, Romance",French
+686,"Cyrano, My Love",2019-10-18,"Comedy, Drama",French
+687,Top Spin,2015-08-21,Documentary,English
+688,Nadigaiyar Thilagam (Tamil),2018-05-08,"Biography, History, Drama",Telugu
+689,Who Invited Charlie?,2023-02-03,Comedy,English
+690,Pain and Glory,2019-10-04,Drama,Spanish
+691,Brooklyn,2015-11-25,"Romance, History, Drama",English
+692,Dio: Dreamers Never Die,2022-09-28,"Documentary, Music, Biography",English
+693,Dramarama,2021-08-13,"Comedy, Drama, Lgbtq+",English
+694,Shepherd: The Story of a Jewish Dog,2021-05-28,"History, Drama",English
+695,Uunchai,2022-11-11,"Comedy, Drama",Hindi
+696,'96,2018-10-03,Romance,Tamil
+697,Come as You Are,2020-02-14,"Comedy, Drama",English
+698,Coco,2017-11-22,"Kids & family, Comedy, Adventure, Music, Animation",English
+699,Whitney Houston: I Wanna Dance with Somebody,2022-12-23,"Biography, Drama, Music",English
+700,Moonage Daydream,2022-09-23,"Documentary, Music",English
+701,Shelley,2016-07-29,"Horror, Mystery & thriller",Danish
+702,A Very Sordid Wedding,2017-03-10,"Comedy, Lgbtq+",English
+703,On-Gaku: Our Sound,2020-12-11,"Comedy, Music, Anime, Animation",Japanese
+704,El Planeta,2021-09-24,"Comedy, Drama",Spanish
+705,Never Rarely Sometimes Always,2020-03-13,Drama,English
+706,Piggy,2022-10-07,"Horror, Mystery & thriller, Drama",Spanish
+707,Deep in the Heart: A Texas Wildlife Story,2022-06-03,Documentary,English
+708,Shin Ultraman,2023-01-11,"Sci-fi, Action, Drama",Japanese
+709,Making Waves: The Art of Cinematic Sound,2019-10-25,Documentary,English
+710,EVANGELION:3.0+1.01 Thrice Upon a Time,2022-11-30,"Sci-fi, Action, Anime, Drama",Japanese
+711,Potato Dreams of America,2022-01-14,"Comedy, Lgbtq+, Biography",English
+712,Transit,2019-03-01,"History, Drama",German
+713,Red Army,2015-01-23,Documentary,English
+714,Daisy Winters,2017-12-01,Drama,English
+715,The Assistant,2020-01-31,Drama,English
+716,M3GAN,2023-01-06,"Horror, Mystery & thriller, Sci-fi, Comedy",English
+717,Black Panther: Wakanda Forever,2022-11-11,"Action, Adventure, Fantasy",English
+718,In the Last Days of the City,2018-04-27,Drama,Arabic
+719,I'll See You in My Dreams,2015-05-15,"Romance, Comedy, Drama",English
+720,The Big Sick,2017-07-14,"Romance, Comedy",English
+721,Filmworker,2018-05-11,Documentary,English
+722,About Endlessness,2021-04-30,Drama,Swedish
+723,My Hero Academia: Heroes Rising,2020-02-26,"Action, Adventure, Anime",Japanese
+724,The Velvet Underground,2021-10-15,"Documentary, Music",English
+725,Science Fair,2018-09-14,Documentary,English
+726,Arabian Nights: Volume 2 -- The Desolate One,2015-12-11,Drama,Portuguese
+727,Emanuel,2019-06-17,Documentary,English
+728,Mobile Suit Gundam: Cucuruz Doan's Island,2022-09-27,"Sci-fi, Anime",Japanese
+729,Barbarian,2022-09-09,"Horror, Mystery & thriller",English
+730,Hockeyland,2022-09-09,Documentary,English
+731,Residue,2020-09-17,Drama,English
+732,Plane,2023-01-13,"Action, Adventure, Mystery & thriller",English
+733,"Hallelujah: Leonard Cohen, a Journey, a Song",2022-07-01,"Documentary, Music",English
+734,Tangerine,2015-07-10,"Comedy, Drama",English
+735,My Little Sister,2021-01-15,Drama,German
+736,MAFIA INC,2021-02-19,"Crime, Drama",French
+737,Knives Out,2019-11-27,"Mystery & thriller, Comedy, Drama",English
+738,Pop Aye,2017-06-28,"Comedy, Drama",Thai
+739,Turbo Kid,2015-08-28,"Action, Adventure, Sci-fi, Comedy",English
+740,Running Shaadi,2017-02-17,"Romance, Comedy",Hindi
+741,Most Beautiful Island,2017-11-02,"Mystery & thriller, Drama",English
+742,Chicken People,2016-09-23,"Documentary, Comedy",English
+743,To Leslie,2022-10-07,Drama,English
+744,Try Harder!,2021-12-03,Documentary,English
+745,Teen Titans GO! to the Movies,2018-07-27,"Kids & family, Comedy, Adventure, Action, Animation",English
+746,In Fabric,2019-12-06,"Horror, Comedy",English
+747,Killing Them Safely,2015-11-27,"Documentary, Drama",English
+748,Mission Mangal,2019-08-15,Drama,Hindi
+749,Transpecos,2016-09-09,Mystery & thriller,English
+750,Unsilenced,2022-01-21,Drama,English
+751,An L.A. Minute,2018-08-24,Comedy,English
+752,Full River Red,2023-03-17,"Action, Comedy",Chinese
+753,Uncle Peckerhead,2020-08-07,"Horror, Comedy",English
+754,Ellie and Abbie (and Ellie's Dead Aunt),2021-08-27,"Comedy, Lgbtq+, Romance",English
+755,East of the Mountains,2021-09-24,"Drama, Adventure",English
+756,Kingdom,2019-08-16,"Action, Adventure, War",Japanese
+757,Larger Than Life: The Kevyn Aucoin Story,2018-07-20,"Documentary, Biography",English
+758,Louis Armstrong's Black & Blues,2022-10-28,"Documentary, Music, Biography",English
+759,Premature,2020-02-21,"Drama, Romance",English
+760,Leave No Trace,2018-06-29,Drama,English
+761,Crocodile Gennadiy,2016-05-20,Documentary,English
+762,Chimera Strain,2019-03-15,"Sci-fi, Mystery & thriller",English
+763,Dancing Arabs,2015-06-26,Drama,Arabic
+764,The Sunshine Makers,2017-01-20,Documentary,English
+765,Val,2021-10-01,"Horror, Comedy",English
+766,All That Breathes,2022-10-21,Documentary,Hindi
+767,The Donut King,2020-10-30,Documentary,English
+768,Sword Art Online the Movie -Progressive- Aria of a Starless Night,2021-12-03,"Action, Adventure, Anime",Japanese
+769,Saint Omer,2023-01-13,Drama,French
+770,Alleluia! The Devil's Carnival,2015-08-11,"Musical, Fantasy",English
+771,The Man Standing Next,2020-01-31,Drama,Korean
+772,Ip Man 4: The Finale,2019-12-25,Action,Chinese
+773,Huesera: The Bone Woman,2023-02-10,"Horror, Mystery & thriller",Spanish
+774,Manchester by the Sea,2016-12-16,Drama,English
+775,VooDoo,2017-02-24,Horror,English
+776,Oklahoma City,2017-02-03,Documentary,English
+777,All Things Must Pass,2015-10-16,Documentary,English
+778,Kailash,2018-11-02,Documentary,English
+779,"J.R. ""Bob"" Dobbs & The Church of the SubGenius",2020-10-16,"Documentary, Comedy",English
+780,Bar Bahar,2017-11-10,Drama,Hebrew
+781,President,2021-12-17,Documentary,English
+782,Back Roads,2018-12-07,"Mystery & thriller, Drama",English
+783,Marriage Story,2019-11-06,Drama,English
+784,The Florida Project,2017-10-06,Drama,English
+785,The Monkey King 2,2016-02-05,"Fantasy, Adventure, Action",Chinese
+786,This Much I Know To Be True,2022-05-11,"Documentary, Music",English
+787,Searching for Ingmar Bergman,2018-11-02,Documentary,German
+788,Los Reyes,2019-08-14,Documentary,Spanish
+789,Torn,2021-12-03,"Documentary, Sports & fitness",English
+790,The Mindfulness Movement,2020-04-10,Documentary,English
+791,Blaze,2018-08-17,"Biography, Drama, Music",English
+792,Number 37,2018-11-02,Mystery & thriller,Afrikaans
+793,Fighting With My Family,2019-02-22,"Comedy, Drama, Biography",English
+794,Top Gun: Maverick,2022-05-27,"Action, Adventure",English
+795,The Mole Agent,2020-01-25,Documentary,Spanish
+796,Rafiki,2019-04-19,"Drama, Romance, Lgbtq+",English
+797,Newton,2017-09-22,"Comedy, Drama",Hindi
+798,Amy,2015-07-03,"Documentary, Biography, Music",English
+799,Tantura,2022-12-02,Documentary,Hebrew
+800,Chhichhore,2019-09-06,Comedy,Hindi
+801,Summertime,2016-07-22,"Romance, Drama, Lgbtq+",French
+802,Sharkwater Extinction,2019-03-01,Documentary,English
+803,Sgt. Stubby: An American Hero,2018-04-13,"Kids & family, Adventure, War, Animation",English
+804,Bacurau,2020-03-06,"Mystery & thriller, Drama, Fantasy",Portuguese
+805,Last Film Show,2022-12-02,Drama,Gujarati
+806,The Pink Cloud,2022-01-14,"Drama, Sci-fi",Portuguese
+807,Young Plato,2022-09-23,Documentary,English
+808,One Cut of the Dead,2019-09-13,"Comedy, Horror",Japanese
+809,Memory: The Origins of Alien,2019-10-04,Documentary,English
+810,BlacKkKlansman,2018-08-10,"Comedy, Drama, Crime",English
+811,The Territory,2022-08-19,Documentary,Portuguese
+812,We the Animals,2018-08-17,"Drama, Lgbtq+",English
+813,Those Who Remained,2020-02-14,Drama,Hungarian
+814,Who Will Write Our History,2019-01-18,Documentary,English
+815,Richard Linklater: Dream Is Destiny,2016-08-05,Documentary,English
+816,Extra Ordinary,2020-03-06,"Comedy, Fantasy",English
+817,The Aeronauts,2019-12-06,"Adventure, Drama",English
+818,Mission: Impossible Rogue Nation,2015-07-31,"Action, Adventure, Mystery & thriller",English
+819,The Icarus Line Must Die,2018-06-20,"Drama, Music",English
+820,Kékszakállú,2017-07-21,Drama,Spanish
+821,Being Evel,2015-08-21,"Documentary, Biography",English
+822,Babylon,2019-03-08,Drama,English
+823,The Shape of Water,2017-12-22,"Fantasy, Romance",English
+824,Araby,2018-06-08,Drama,Portuguese
+825,Take My Nose... Please!,2017-03-04,Documentary,English
+826,Apollo 11,2019-03-08,"Documentary, History, Drama",English
+827,Golden Arm,2021-04-30,Comedy,English
+828,Puss in Boots: The Last Wish,2022-12-21,"Kids & family, Comedy, Adventure, Animation",English
+829,Citizen Jane: Battle for the City,2017-04-21,Documentary,English
+830,The Jesus Music,2021-10-01,"Documentary, Music",English
+831,Bone Tomahawk,2015-10-23,"Western, Action, Horror, Comedy",English
+832,Emily the Criminal,2022-08-12,"Crime, Drama, Mystery & thriller",English
+833,Salt in My Soul,2022-01-21,"Documentary, Biography",English
+834,The Price of Everything,2018-10-19,Documentary,English
+835,Gosnell,2018-10-12,"Crime, Drama",English
+836,Words on Bathroom Walls,2020-08-21,"Romance, Drama",English
+837,Every Time I Die,2019-08-09,"Mystery & thriller, Horror",English
+838,Memoria,2016-05-06,"Drama, Biography",English
+839,Clara,2019-05-03,"Sci-fi, Drama",English
+840,The Velvet Queen,2021-12-22,Documentary,French
+841,Of Fathers and Sons,2018-11-16,Documentary,Arabic
+842,Batman: Return of the Caped Crusaders,2016-10-10,"Action, Adventure, Animation",English
+843,Beasts Clawing at Straws,2020-10-21,"Mystery & thriller, Crime, Drama",Korean
+844,Birds of Passage,2019-02-13,"Crime, Drama",Spanish
+845,The Treasure,2016-01-08,Comedy,Romanian
+846,Blue Bayou,2021-09-17,Drama,English
+847,Lost Illusions,2022-06-10,"Drama, History",French
+848,"Acasa, My Home",2021-01-15,Documentary,Romanian
+849,Parallel Mothers,2021-12-24,Drama,Spanish
+850,Chained for Life,2019-09-11,Drama,English
+851,Palio,2015-11-06,"Documentary, Drama",Italian
+852,12 Days,2018-03-16,Documentary,French
+853,Restless Creature: Wendy Whelan,2017-05-24,"Documentary, Music",English
+854,Identifying Features,2021-01-22,Drama,Spanish
+855,The Macaluso Sisters,2021-08-06,Drama,Italian
+856,Fatima,2020-08-28,"History, Drama",English
+857,Sing 2,2021-12-22,"Kids & family, Musical, Comedy, Animation",English
+858,Shadow,2019-05-03,"Action, Adventure",Chinese
+859,Paul Taylor: Creative Domain,2015-09-11,"Documentary, Biography",English
+860,Mrs. Harris Goes to Paris,2022-07-15,"Comedy, Drama",English
+861,Jinn,2018-11-15,Drama,English
+862,In Front of Your Face,2022-05-06,Drama,Korean
+863,I Carry You With Me,2021-06-25,"Drama, Romance, Lgbtq+",Spanish
+864,Slash,2016-12-09,"Comedy, Drama",English
+865,#Female Pleasure,2019-10-18,Documentary,English
+866,Sand Storm,2016-09-28,Drama,Arabic
+867,(T)ERROR,2015-10-07,Documentary,English
+868,The Death of Stalin,2018-03-09,Comedy,English
+869,Bill Nye: Science Guy,2017-10-27,Documentary,English
+870,I'm Your Man,2021-09-24,"Romance, Comedy, Sci-fi",German
+871,Bad Match,2017-11-03,Mystery & thriller,English
+872,Bad Day for the Cut,2017-10-20,Mystery & thriller,English
+873,Phoenix,2015-07-24,"History, Drama",German
+874,Fire of Love,2022-07-06,"Documentary, Biography",French
+875,Revenge,2018-05-11,Mystery & thriller,English
+876,All This Panic,2017-03-31,Documentary,English
+877,Shirkers,2018-10-26,Documentary,English
+878,A Man of Integrity,2022-06-17,Drama,Persian
+879,The Long Walk,2022-02-18,"Sci-fi, Mystery & thriller",Lao
+880,Tetris,2023-03-24,"Mystery & thriller, Biography, Drama",English
+881,The Roundup,2022-05-20,"Crime, Drama, Action",Korean
+882,Badlapur,2015-02-20,"Crime, Drama, Mystery & thriller, Action",Hindi
+883,National Bird,2016-11-11,Documentary,English
+884,2022 Oscar Nominated Shorts - Animation,2022-02-25,Animation,English
+885,"Nico, 1988",2018-08-01,"Biography, History, Drama, Music",English
+886,A Stray,2016-10-21,Drama,English
+887,Under the Shadow,2016-10-07,"Horror, Mystery & thriller",Persian
+888,"Aliens, Clowns & Geeks",2021-01-30,"Comedy, Sci-fi",English
+889,Maze,2019-03-22,"Mystery & thriller, Drama",English
+890,Loudmouth,2022-12-09,"Documentary, Biography",English
+891,Unrest,2017-09-22,Documentary,English
+892,Redeeming Love,2022-01-21,"Romance, History, Drama",English
+893,Alanis,2018-11-30,Drama,Spanish
+894,On Sacred Ground,2023-01-13,Drama,English
+895,Cop Secret,2022-07-08,"Action, Comedy, Crime",Icelandic
+896,Krisha,2016-03-18,"Holiday, Drama",English
+897,Love & Friendship,2016-05-27,Comedy,English
+898,Miss Hokusai,2016-10-14,"Biography, History, Drama, Anime",Japanese
+899,5B,2019-06-14,Documentary,English
+900,Loveless,2018-02-16,Drama,Russian
+901,Burning,2018-10-26,"Mystery & thriller, Drama",Korean
+902,American Factory,2019-08-21,Documentary,English
+903,The Duke,2022-04-22,"Comedy, Drama",English
+904,Rapid Response,2019-09-06,Documentary,English
+905,Ex Machina,2015-04-24,"Sci-fi, Mystery & thriller, Drama",English
+906,Miss Kiet's Children,2017-12-13,Documentary,Dutch
+907,The Cakemaker,2018-06-29,"Drama, Lgbtq+",English
+908,David Crosby: Remember My Name,2019-07-19,"Documentary, Music",English
+909,Taylor Swift: Miss Americana,2020-01-31,"Documentary, Music",English
+910,Dinner in America,2022-05-27,"Comedy, Drama",English
+911,Fortune Favors Lady Nikuko,2022-06-03,"Comedy, Drama, Anime",Japanese
+912,Nitram,2022-03-30,"Mystery & thriller, Crime, Drama",English
+913,Charlotte Has Fun,2019-03-29,Comedy,French
+914,By the Grace of God,2019-10-18,Drama,French
+915,Tickling Giants,2017-03-15,Documentary,English
+916,The Penny Black,2021-05-21,Documentary,English
+917,Boys State,2020-07-31,Documentary,English
+918,Hearts Beat Loud,2018-06-08,"Comedy, Drama, Music",English
+919,Klaus,2019-11-08,"Kids & family, Holiday, Comedy, Adventure, Animation",English
+920,Saint-Narcisse,2021-09-17,"Drama, Romance, Comedy",English
+921,Angels Wear White,2018-05-04,Drama,Chinese
+922,The Banshees of Inisherin,2022-11-04,Comedy,English
+923,Miss Sharon Jones!,2016-07-29,"Documentary, Music",English
+924,Let It Fall: Los Angeles 1982-1992,2017-04-21,Documentary,English
+925,Mustang,2015-11-20,Drama,Turkish
+926,A Good Person,2023-03-24,Drama,English
+927,The Farewell,2019-08-02,"Comedy, Drama",English
+928,Sicilian Ghost Story,2018-11-30,"Fantasy, Romance",Italian
+929,Navalny,2022-04-11,Documentary,Russian
+930,A Love Song,2022-07-29,"Drama, Romance",English
+931,And Then We Danced,2020-02-07,"Drama, Romance, Lgbtq+",Georgian
+932,Southside With You,2016-08-26,"Romance, Biography, Drama",English
+933,"Love, Simon",2018-03-16,"Romance, Comedy, Drama, Lgbtq+",English
+934,Straight Up,2020-02-28,"Romance, Comedy",English
+935,Stars Fell Again,2023-02-03,"Holiday, Romance, Comedy",English
+936,Star Wars: The Last Jedi,2017-12-15,"Sci-fi, Adventure, Action, Fantasy",English
+937,Dream Horse,2021-05-21,"Comedy, Drama",English
+938,Recorder: The Marion Stokes Project,2019-11-15,Documentary,English
+939,The Breadwinner,2017-11-17,"Drama, Animation",English
+940,A Man Called Otto,2023-01-13,"Comedy, Drama",English
+941,Sidemen: Long Road to Glory,2017-08-18,"Documentary, Music",English
+942,The Summit of the Gods,2021-11-24,"Adventure, Drama, Animation",French
+943,No Greater Love,2017-11-10,Documentary,English
+944,Black Souls,2015-04-10,"Crime, Drama",Italian
+945,Queen Mimi,2016-05-13,Documentary,English
+946,A Hero,2022-01-07,Drama,Persian
+947,Pig,2021-07-16,"Drama, Mystery & thriller",English
+948,The Wandering Earth II,2023-01-22,"Sci-fi, Action, Adventure",Chinese
+949,Uncut Gems,2019-12-25,"Mystery & thriller, Comedy",English
+950,Echoes of Violence,2021-08-24,"Mystery & thriller, Crime, Drama",English
+951,My True Fairytale,2021-04-09,"Drama, Mystery & thriller",English
+952,Bisbee '17,2018-09-05,Documentary,English
+953,Two Lottery Tickets,2021-05-21,Comedy,Romanian
+954,Elle,2016-11-11,"Mystery & thriller, Drama",French
+955,Sea of Shadows,2019-07-12,"Documentary, Crime, Drama, History",English
+956,Giant Little Ones,2019-03-01,Drama,English
+957,The Sparks Brothers,2021-06-18,"Documentary, Music",English
+958,Weathering With You,2020-01-15,"Drama, Fantasy, Anime",Japanese
+959,Avatar: The Way of Water,2022-12-16,"Sci-fi, Adventure, Action, Fantasy",English
+960,The Love Witch,2016-11-11,"Horror, Comedy, Drama",English
+961,Wolfwalkers,2020-11-13,"Fantasy, Adventure, Animation",English
+962,The Wonders,2015-10-30,Drama,Italian
+963,Gift,2019-10-11,Documentary,English
+964,Seymour: An Introduction,2015-03-13,Documentary,English
+965,Ocean Boy,2023-02-03,Drama,English
+966,A Chiara,2022-05-27,Drama,Italian
+967,"Lyle, Lyle, Crocodile",2022-10-07,"Kids & family, Musical, Comedy, Animation",English
+968,Rapture,2021-10-01,Drama,Spanish
+969,Get Out,2017-02-24,"Horror, Mystery & thriller, Comedy",English
+970,Demain,2017-04-14,Documentary,English
+971,A Gray State,2017-11-03,Documentary,English
+972,4 Days in France,2017-08-04,"Comedy, Drama, Romance, Lgbtq+",French
+973,Alcarràs,2023-01-06,Drama,Catalan
+974,A Cops and Robbers Story,2022-01-14,"Documentary, Biography",English
+975,Zappa,2020-11-23,"Documentary, Music, Biography",English
+976,Boiling Point,2021-11-19,"Drama, Mystery & thriller",English
+977,Collective,2020-11-20,Documentary,Romanian
+978,Hooligan Sparrow,2016-07-22,"Documentary, Crime, Drama",Chinese
+979,The Handmaiden,2016-10-21,"Mystery & thriller, Drama, Romance",Korean
+980,Three Identical Strangers,2018-06-29,"Documentary, Biography, Drama, History, Mystery & thriller",English
+981,Sprinter,2019-04-24,Drama,English
+982,The Cat Rescuers,2019-07-05,Documentary,English
+983,Prevenge,2017-03-24,"Comedy, Drama, Fantasy, Horror, Mystery & thriller",English
+984,Love & Taxes,2017-03-03,Comedy,English
+985,Echoes of the Empire: Beyond Genghis Khan,2022-06-03,"Documentary, History",English
+986,The Irishman,2019-11-01,"Crime, Drama",English
+987,Neither Wolf Nor Dog,2017-03-30,Drama,English
+988,The Last Laugh,2017-03-03,Documentary,English
+989,Longing,2018-10-17,Drama,Hebrew
+990,63 Up,2019-11-27,Documentary,English
+991,Benediction,2022-06-03,"Biography, History, Drama, War, Lgbtq+",English
+992,The Dead Center,2019-10-11,Mystery & thriller,English
+993,King Georges,2016-02-26,Documentary,English
+994,I Am Not Your Negro,2017-02-03,Documentary,English
+995,In Search of Greatness,2018-11-02,Documentary,English
+996,Apples,2022-06-24,"Comedy, Drama",English
+997,If Beale Street Could Talk,2019-01-11,"Crime, Drama, Romance",English
+998,The B-Side: Elsa Dorfman's Portrait Photography,2017-06-30,Documentary,English
+999,Frozen II,2019-11-22,"Kids & family, Musical, Comedy, Adventure, Animation",English
+1000,Champs,2015-03-13,"Documentary, Biography",English
+1001,Bombshell: The Hedy Lamarr Story,2017-11-24,Documentary,English
+1002,Tickled,2016-06-17,"Documentary, Mystery & thriller, Lgbtq+",English
+1003,Rose Plays Julie,2021-03-19,Drama,English
+1004,The Blind Man Who Did Not Want to See Titanic,2023-02-03,"Comedy, Drama, Mystery & thriller",Finnish
+1005,The Innocents,2022-05-13,"Horror, Mystery & thriller",Norwegian
+1006,The Salt of the Earth,2015-03-27,Documentary,Portuguese
+1007,Echo in the Canyon,2019-05-24,"Documentary, Music",English
+1008,93Queen,2018-01-01,Documentary,English
+1009,War for the Planet of the Apes,2017-07-14,"Sci-fi, Action, Adventure",English
+1010,Our Friend,2021-01-22,Drama,English
+1011,Chi-Town,2019-02-21,Documentary,English
+1012,This Changes Everything,2019-06-28,Documentary,English
+1013,Famous,2021-12-10,Drama,English
+1014,Queen & Slim,2019-11-27,"Crime, Drama, Romance",English
+1015,Saint Frances,2020-02-28,"Comedy, Drama",English
+1016,Mosul,2019-04-12,Documentary,English
+1017,Planet Earth: One Amazing Day,2017-10-06,Documentary,English
+1018,I Am Another You,2017-09-27,Documentary,English
+1019,The Inspection,2022-12-02,"Drama, Lgbtq+",English
+1020,Who We Are Now,2018-05-25,Drama,English
+1021,"Introducing, Selma Blair",2021-10-15,Documentary,English
+1022,King Cohen: The Wild World of Filmmaker Larry Cohen,2018-07-06,Documentary,English
+1023,Only the Brave,2017-10-20,"Drama, Adventure",English
+1024,Fire in the Mountains,2022-05-20,Drama,Hindi
+1025,When Two Worlds Collide,2016-08-17,Documentary,Spanish
+1026,Rosenwald,2015-08-14,Documentary,English
+1027,"Tick, Tick... Boom!",2021-11-12,"Musical, Drama, Biography",English
+1028,Herself,2020-12-30,Drama,English
+1029,"The Gangster, the Cop, the Devil",2019-06-07,"Action, Mystery & thriller, Crime, Drama",Korean
+1030,James White,2015-11-13,Drama,English
+1031,Too Late to Die Young,2019-05-31,Drama,Spanish
+1032,Jesus Revolution,2023-02-24,"Drama, History",English
+1033,The Never List,2020-12-11,Drama,English
+1034,We're All Going to the World's Fair,2022-04-15,"Horror, Drama",English
+1035,Prosecuting Evil: The Extraordinary World of Ben Ferencz,2019-02-22,Documentary,English
+1036,Gleason,2016-07-29,Documentary,English
+1037,Aquarius,2016-10-14,Drama,Portuguese
+1038,Miss Juneteenth,2020-06-19,Drama,English
+1039,King Otto,2022-03-25,Documentary,Greek
+1040,"Riotsville, USA",2022-09-16,"Documentary, History",English
+1041,Great Freedom,2022-03-04,Drama,German
+1042,Citizen Ashe,2021-12-03,"Documentary, Biography",English
+1043,National Parks Adventure,2016-02-12,Documentary,English
+1044,Pinball: The Man Who Saved the Game,2023-03-17,"Comedy, Drama",English
+1045,Violet Evergarden,2020-02-17,"Drama, Anime",Japanese
+1046,Sicario,2015-10-02,"Mystery & thriller, Crime, Drama",English
+1047,Te Ata,2017-09-29,"Biography, History, Drama",English
+1048,Ryuichi Sakamoto: Coda,2018-07-06,"Documentary, Music",Japanese
+1049,Aftersun,2022-10-21,Drama,English
+1050,Old Stone,2016-11-30,"Mystery & thriller, Drama",Chinese
+1051,Last Men in Aleppo,2017-05-03,"Documentary, War",Arabic
+1052,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",2021-07-02,"Documentary, Music",English
+1053,Hope,2021-04-16,"Drama, Romance",Norwegian
+1054,"Lo and Behold, Reveries of the Connected World",2016-08-19,Documentary,English
+1055,Fiddler's Journey to the Big Screen,2022-04-29,"Documentary, History",English
+1056,Fagara,2019-09-13,Drama,Chinese
+1057,Boston,2017-04-19,Documentary,English
+1058,Limbo,2021-04-30,"Comedy, Drama",English
+1059,Fight for Space,2017-05-19,Documentary,English
+1060,Women He's Undressed,2016-07-29,Documentary,English
+1061,Peter and the Farm,2016-11-04,Documentary,English
+1062,Eating Animals,2018-06-15,Documentary,English
+1063,Dream Big: Engineering Our World,2017-02-17,Documentary,English
+1064,Ali & Ava,2022-07-29,"Drama, Romance",English
+1065,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",2017-11-17,Documentary,Kalaallisut
+1066,Varda by Agnès,2019-11-22,"Documentary, Biography",French
+1067,They Shall Not Grow Old,2019-02-01,"Documentary, History, Drama, War",English
+1068,The Perfect Candidate,2021-05-14,Drama,Arabic
+1069,Tár,2022-10-28,"Drama, Music",English
+1070,Custody,2018-06-29,"Drama, Mystery & thriller",French
+1071,Charming the Hearts of Men,2021-08-13,"Comedy, Drama",English
+1072,The Killing of Two Lovers,2021-05-14,Drama,English
+1073,Left on Purpose,2017-02-10,"Documentary, Biography, Drama",English
+1074,Night of the Kings,2021-02-26,Drama,French
+1075,Barracuda,2017-10-06,"Mystery & thriller, Drama",English
+1076,Tyger Tyger,2021-02-26,Mystery & thriller,English
+1077,PG: Psycho Goreman,2021-01-22,"Horror, Comedy",English
+1078,After Love,2023-01-20,Drama,English
+1079,Princess Cyd,2017-11-03,"Drama, Romance, Lgbtq+",English
+1080,100 Years of Men in Love: The Accidental Collection,2022-03-23,"Documentary, History, Lgbtq+",English
+1081,Sonic the Hedgehog 2,2022-04-08,"Kids & family, Comedy, Adventure, Fantasy",English
+1082,The Power of the Dog,2021-11-17,"Western, Drama, Romance",English
+1083,Love and Monsters,2020-10-16,"Fantasy, Adventure, Comedy",English
+1084,Clash,2017-08-25,"Drama, Mystery & thriller",Arabic
+1085,Survivors Guide to Prison,2018-02-23,Documentary,English
+1086,Sword of Trust,2019-07-12,Comedy,English
+1087,Assassin 33 A.D.,2020-01-24,Sci-fi,English
+1088,Wildlike,2015-09-25,"Adventure, Drama",English
+1089,Julia,2021-11-12,Documentary,English
+1090,Angel Has Fallen,2019-08-23,"Action, Mystery & thriller",English
+1091,Fourteen,2020-05-15,Drama,English
+1092,Operator,2016-11-08,"Comedy, Drama",English
+1093,Surge of Power: Revenge of the Sequel,2018-01-05,"Comedy, Lgbtq+",English
+1094,Cinema Sabaya,2023-02-10,Drama,Hebrew
+1095,The Battle at Lake Changjin,2021-11-19,"War, Action, Drama",Chinese
+1096,Train to Busan,2016-07-22,"Horror, Mystery & thriller, Action",Korean
+1097,The Salesman,2017-01-27,Drama,Persian
+1098,The Mustang,2019-03-15,Drama,English
+1099,Intent to Destroy,2017-11-10,Documentary,English
+1100,The Domestics,2018-06-29,"Action, Mystery & thriller",English
+1101,Silicon Cowboys,2016-09-16,Documentary,English
+1102,Strike a Pose,2017-01-18,"Documentary, Music, Lgbtq+",English
+1103,The Elephant Queen,2019-10-18,"Documentary, Adventure, Comedy, Drama",English
+1104,My Life as a Zucchini,2017-02-24,"Comedy, Drama, Animation",French
+1105,The Whale,2022-12-21,Drama,English
+1106,A Dog's Journey,2019-05-17,"Kids & family, Comedy, Drama, Fantasy, Adventure",English
+1107,They'll Love Me When I'm Dead,2018-11-02,Documentary,English
+1108,Paddington 2,2018-01-12,"Kids & family, Comedy, Adventure",English
+1109,The Bad Kids,2016-01-22,Documentary,English
+1110,The Dawn Wall,2018-09-14,Documentary,English
+1111,The Nice Guys,2016-05-20,"Action, Comedy, Mystery & thriller",English
+1112,Bethany Hamilton: Unstoppable,2019-07-12,Documentary,English
+1113,Where the Crawdads Sing,2022-07-15,"Drama, Mystery & thriller",English
+1114,The Woman Who Loves Giraffes,2019-10-04,Documentary,English
+1115,Hive,2021-11-05,Drama,Albanian
+1116,Hail Satan?,2019-04-17,Documentary,English
+1117,City of Ghosts,2017-07-07,"Documentary, War",English
+1118,Mississippi Grind,2015-09-25,Drama,English
+1119,Sunken Roads: Three Generations After D-Day,2020-12-18,Documentary,English
+1120,The Game Changers,2019-09-16,Documentary,English
+1121,The Hunting Ground,2015-02-27,Documentary,English
+1122,Jurassic Punk,2022-12-16,"Documentary, Biography",English
+1123,Old Henry,2021-10-01,"Western, Action",English
+1124,Oliver Sacks: His Own Life,2020-09-23,Documentary,English
+1125,Summer 1993,2018-05-25,Drama,Catalan
+1126,Window Horses,2017-09-22,"Comedy, Drama, Animation",English
+1127,The Beatles: Get Back - The Rooftop Concert,2022-01-30,"Documentary, Music",English
+1128,The Seven Faces of Jane,2023-01-13,Drama,English
+1129,Rock Rubber 45s,2018-06-28,Documentary,English
+1130,Eternal Spring,2022-10-14,"Documentary, Animation, History",Chinese
+1131,Nanpakal Nerathu Mayakkam,2023-01-19,Drama,Tamil
+1132,A Journal for Jordan,2021-12-25,"Drama, Romance",English
+1133,BPM (Beats Per Minute),2017-10-20,"Drama, Lgbtq+",French
+1134,Eagles of Death Metal: Nos Amis (Our Friends),2017-02-10,"Documentary, Music",English
+1135,The Cage Fighter,2018-02-02,Documentary,English
+1136,Jim Gaffigan: Noble Ape,2018-07-13,Comedy,English
+1137,Foxtrot,2018-03-02,Drama,Hebrew
+1138,The Planters,2020-10-09,Comedy,English
+1139,Confetti,2021-08-20,Drama,English
+1140,Mass,2021-10-08,Drama,English
+1141,Betting on Zero,2017-03-10,Documentary,English
+1142,Thirteen Lives,2022-07-29,Drama,English
+1143,Beans,2021-11-05,Drama,English
+1144,Coming Home in the Dark,2021-10-01,"Horror, Mystery & thriller",English
+1145,Free Guy,2021-08-13,"Action, Adventure, Comedy",English
+1146,The Pearl Button,2015-10-23,Documentary,Spanish
+1147,Phantom Thread,2018-01-19,"Drama, Romance",English
+1148,SPL 2: A Time for Consequences,2016-05-13,"Action, Mystery & thriller",Chinese
+1149,Logan,2017-03-03,"Action, Adventure, Fantasy",English
+1150,Shiva Baby,2021-04-02,"Comedy, Lgbtq+, Drama",English
+1151,Big Fish & Begonia,2018-04-06,"Fantasy, Adventure, Anime",Chinese
+1152,Cowboys,2021-02-12,Drama,English
+1153,The Little Prince,2016-08-05,"Adventure, Fantasy, Animation",English
+1154,Nuts!,2016-06-22,Documentary,English
+1155,The Wailing,2016-05-20,"Mystery & thriller, Horror",Korean
+1156,Chandigarh Kare Aashiqui,2021-12-10,"Romance, Action, Drama",Hindi
+1157,Letter From Masanjia,2018-09-14,Documentary,English
+1158,Elizabeth Blue,2017-09-22,Drama,English
+1159,All In: The Fight for Democracy,2020-09-09,Documentary,English
+1160,"Goodbye, Don Glees!",2022-09-14,"Kids & family, Adventure, Anime, Drama",Japanese
+1161,Ford v Ferrari,2019-11-15,"History, Drama, Biography",English
+1162,Roadrunner: A Film About Anthony Bourdain,2021-07-16,Documentary,English
+1163,Coup 53,2020-08-21,Documentary,English
+1164,In Jackson Heights,2015-11-04,Documentary,English
+1165,Downton Abbey,2019-09-20,Drama,English
+1166,Avengers: Infinity War,2018-04-27,"Action, Adventure, Fantasy, Sci-fi",English
+1167,Ne Zha,2019-09-06,"Fantasy, Adventure, Animation",Chinese
+1168,She Said,2022-11-18,Drama,English
+1169,Beasts of No Nation,2015-10-16,"War, Drama",English
+1170,Taurus,2022-11-18,"Drama, Music",English
+1171,Dragon Ball Super: Super Hero,2022-08-19,"Action, Adventure, Fantasy, Anime",Japanese
+1172,Tijuana Jackson: Purpose Over Prison,2020-07-24,Comedy,English
+1173,Aida's Secrets,2017-10-20,Documentary,English
+1174,The Reason I Jump,2021-01-08,Documentary,English
+1175,Rams,2021-02-05,"Comedy, Drama",English
+1176,The Heart of Nuba,2018-04-06,Documentary,English
+1177,Super 30,2019-07-12,"Biography, Drama",Hindi
+1178,Long Day's Journey Into Night,2019-04-12,"Mystery & thriller, Drama",Chinese
+1179,Skid Row Marathon,2019-03-22,Documentary,English
+1180,Gagarine,2022-04-01,Drama,French
+1181,Jethica,2023-01-13,"Comedy, Drama, Mystery & thriller",English
+1182,Sweet Country,2018-04-06,"Western, History, Drama",English
+1183,Arcadia,2016-03-05,"Drama, Fantasy, Mystery & thriller",English
+1184,The Beatles: Eight Days a Week -- The Touring Years,2016-09-16,"Documentary, Music",English
+1185,Breaking a Monster,2016-06-24,"Documentary, Music",English
+1186,Against the Night,2017-09-15,Horror,English
+1187,What We Do Next,2023-03-03,Drama,English
+1188,An Elephant Sitting Still,2019-03-08,Drama,Chinese
+1189,Doobious Sources,2017-01-20,Comedy,English
+1190,The Farthest,2017-08-11,Documentary,English
+1191,They Will Have to Kill Us First,2016-03-04,Documentary,French
+1192,Hesburgh,2019-04-26,Documentary,English
+1193,Citizen K,2019-11-22,Documentary,English
+1194,The Girl and the Spider,2022-04-08,Drama,German
+1195,Eye in the Sky,2016-04-01,"Mystery & thriller, War, Drama",English
+1196,Elián,2017-05-19,Documentary,English
+1197,Screwball,2019-03-29,Documentary,English
+1198,Golden Voices,2021-10-08,"Comedy, Drama, Romance",Russian
+1199,Clemency,2019-12-27,Drama,English
+1200,Human Nature,2020-03-13,Documentary,English
+1201,Mirai,2018-11-29,"Kids & family, Fantasy, Adventure, Anime",Japanese
+1202,Rosie,2019-07-19,Drama,English
+1203,Avengers: Endgame,2019-04-26,"Action, Adventure, Fantasy, Sci-fi",English
+1204,The Load,2019-08-30,Drama,Serbian
+1205,The Human Voice,2021-03-12,Drama,English
+1206,Crime + Punishment,2018-08-24,Documentary,English
+1207,Country Gold,2023-03-16,"Comedy, Fantasy",English
+1208,Roll Red Roll,2019-03-22,"Documentary, Crime, Drama",English
+1209,Dawson City: Frozen Time,2017-06-09,Documentary,English
+1210,Mission: Impossible - Fallout,2018-07-27,"Action, Adventure, Mystery & thriller",English
+1211,Rojo,2019-07-12,"Drama, Mystery & thriller",Spanish
+1212,Luzzu,2021-10-15,Drama,Maltese
+1213,The Woman King,2022-09-16,"Action, Adventure, History, Drama, War",English
+1214,Wonder Woman,2017-06-02,"Action, Adventure, Fantasy",English
+1215,Gloria Bell,2019-03-22,"Romance, Comedy",English
+1216,The Shadow of Violence,2020-07-31,"Crime, Drama, Mystery & thriller",English
+1217,Woman at War,2019-03-01,"Comedy, Drama",Icelandic
+1218,Fences,2016-12-25,Drama,English
+1219,Harriet,2019-11-01,"Biography, History, Drama",English
+1220,Silencio,2018-10-26,Mystery & thriller,English
+1221,Spy,2015-06-05,"Comedy, Action",English
+1222,Finding Dory,2016-06-17,"Kids & family, Comedy, Adventure, Animation",English
+1223,Inxeba,2017-08-16,"Drama, Lgbtq+",Afrikaans
+1224,Gabby Giffords Won't Back Down,2022-07-15,Documentary,English
+1225,Badhaai Do,2022-02-11,"Comedy, Drama",Hindi
+1226,"Argentina, 1985",2022-09-30,Drama,Spanish
+1227,Behemoth,2017-01-27,Documentary,Chinese
+1228,Selena Gomez: My Mind and Me,2022-11-04,"Documentary, Biography",English
+1229,Saving Mr. Wu,2015-10-02,"Crime, Drama, Mystery & thriller",Chinese
+1230,Catch the Fair One,2022-02-11,"Mystery & thriller, Drama",English
+1231,Things to Come,2016-12-02,Drama,French
+1232,Living,2022-12-23,Drama,English
+1233,What Haunts Us,2018-05-11,Documentary,English
+1234,Lucky Grandma,2020-05-22,Drama,English
+1235,Soufra,2017-11-17,Documentary,Arabic
+1236,Maria by Callas: In Her Own Words,2018-11-02,"Documentary, Biography, Music",English
+1237,Maleficent: Mistress of Evil,2019-10-18,"Fantasy, Adventure",English
+1238,The Pay Day,2022-11-11,"Comedy, Mystery & thriller",English
+1239,Saving Brinton,2017-09-17,Documentary,English
+1240,Super Deluxe,2019-03-29,Mystery & thriller,Tamil
+1241,The Vigil,2021-02-26,"Horror, Mystery & thriller",English
+1242,Encanto,2021-11-24,"Kids & family, Musical, Comedy, Fantasy, Animation",English
+1243,Closure,2019-10-18,"Comedy, Drama",English
+1244,The Guilty,2018-10-19,"Mystery & thriller, Crime, Drama",Danish
+1245,Our Evil,2019-05-10,Horror,Portuguese
+1246,Pompo the Cinephile,2022-04-27,"Drama, Anime, Comedy",Japanese
+1247,Birdman or (The Unexpected Virtue of Ignorance),2015-01-16,"Comedy, Drama",English
+1248,Ktown Cowboys,2016-03-18,"Comedy, Drama",English
+1249,The Outpost,2020-07-03,"War, Drama",English
+1250,Paper Spiders,2021-05-07,"Drama, Comedy",English
+1251,The Harbinger,2022-12-01,"Horror, Mystery & thriller, Drama",English
+1252,The Happiest Day in the Life of Olli Mäki,2017-04-21,Drama,Finnish
+1253,The Twentieth Century,2020-11-20,"Comedy, Drama",English
+1254,Saint Maud,2021-01-29,Horror,English
+1255,Wrestling Jerusalem,2017-02-03,Drama,English
+1256,The Anthropologist,2016-11-11,Documentary,English
+1257,Sorry to Bother You,2018-07-13,"Comedy, Fantasy, Sci-fi",English
+1258,Clerks III,2022-09-13,Comedy,English
+1259,76 Days,2021-01-23,Documentary,Chinese
+1260,Vikram,2022-06-03,"Mystery & thriller, Action",Hindi
+1261,The Independents,2021-02-26,"Comedy, Drama",English
+1262,The Red Turtle,2017-01-20,"Adventure, Animation",Unknown language
+1263,Mission Control: The Unsung Heroes of Apollo,2017-04-14,"Documentary, History, Drama",English
+1264,Sensation,2021-12-31,"Sci-fi, Mystery & thriller",English
+1265,Little Men,2016-08-05,Drama,English
+1266,Becks,2018-02-09,"Drama, Music, Lgbtq+",English
+1267,Your Name,2017-04-07,"Fantasy, Romance, Anime",Japanese
+1268,The American Dream and Other Fairy Tales,2022-09-16,Documentary,English
+1269,Breathe,2015-09-11,Drama,French
+1270,One Night in Miami,2020-12-25,Drama,English
+1271,David Lynch: The Art Life,2017-03-31,Documentary,English
+1272,Tunnel,2016-08-26,"Drama, Mystery & thriller",Korean
+1273,Free Solo,2018-09-28,Documentary,English
+1274,Honey Boy,2019-11-08,Drama,English
+1275,S...house,2020-10-16,Comedy,English
+1276,The Survivalist,2017-05-19,"Mystery & thriller, Drama",English
+1277,Paths of the Soul,2016-05-13,Documentary,Tibetan
+1278,Do Not Resist,2016-09-30,Documentary,English
+1279,Laal Singh Chaddha,2022-08-11,"Comedy, Drama",Hindi
+1280,A Taxi Driver,2017-08-11,"Action, History, Drama",Korean
+1281,Dark Money,2018-07-13,Documentary,English
+1282,Son of Monarchs,2021-10-15,Drama,English
+1283,McQueen,2018-07-20,Documentary,English
+1284,Swing Kids,2018-12-21,"Drama, Musical",Korean
+1285,The Meyerowitz Stories (New and Selected),2017-10-13,Comedy,English
+1286,Score: A Film Music Documentary,2017-06-16,"Documentary, Music",English
+1287,Twenty Two,2017-09-08,Documentary,Chinese
+1288,Kickboxer: Retaliation,2018-01-26,"Action, Drama",English
+1289,"""Sr.""",2022-11-18,Documentary,English
+1290,Baja,2018-04-13,Comedy,English
+1291,Recovery Boys,2018-06-29,Documentary,English
+1292,Joshua: Teenager vs. Superpower,2017-05-26,Documentary,English
+1293,November,2018-02-23,"Fantasy, Drama, Romance, Horror",Estonian
+1294,A Dark Foe,2021-07-30,"Mystery & thriller, Crime, Drama",English
+1295,"Hare Krishna! The Mantra, the Movement and the Swami Who Started It All",2017-06-16,Documentary,English
+1296,Playground,2022-02-11,Drama,French
+1297,Extremity,2018-09-28,Horror,English
+1298,Father,2022-04-15,Drama,Serbian
+1299,RBG,2018-05-25,Documentary,English
+1300,Liyana,2018-10-10,Documentary,English
+1301,Birdboy: The Forgotten Children,2017-12-15,"Fantasy, Adventure, Animation",Spanish
+1302,Relic,2020-07-10,"Horror, Drama",English
+1303,Kapoor & Sons -- Since 1921,2016-03-18,"Romance, Comedy",Hindi
+1304,The Lost Leonardo,2021-08-13,"Documentary, Drama",English
+1305,Finders Keepers,2015-09-25,Documentary,English
+1306,Burden,2020-02-28,Drama,English
+1307,Carmen,2022-09-23,Drama,English
+1308,Sunshine Superman,2015-05-22,Documentary,English
+1309,For the Love of Spock,2016-09-09,Documentary,English
+1310,Pearl,2022-09-16,"Horror, Mystery & thriller, Comedy",English
+1311,Bumblebee,2018-12-21,"Action, Adventure, Sci-fi",English
+1312,Broker,2022-12-26,Drama,Korean
+1313,The Banker,2020-03-06,"History, Drama",English
+1314,Railway Children,2022-09-23,"Drama, War, Kids & family",English
+1315,Son of Saul,2015-12-18,"History, Drama",German
+1316,The Humans,2021-11-24,"Holiday, Comedy, Drama",English
+1317,Violet Evergarden: The Movie,2021-03-30,"Fantasy, Anime",Japanese
+1318,The Black Panthers: Vanguard of the Revolution,2015-09-02,"Documentary, History, Drama",English
+1319,Luca,2021-06-18,"Kids & family, Comedy, Fantasy, Animation",English
+1320,Days,2021-08-13,"Documentary, Drama",Chinese
+1321,Sound of Metal,2020-11-20,Drama,English
+1322,Capital in the Twenty-First Century,2020-04-03,Documentary,English
+1323,The Croods: A New Age,2020-11-25,"Kids & family, Comedy, Adventure, Animation",English
+1324,Night Comes On,2018-08-03,Drama,English
+1325,The Rescue,2021-10-08,"Documentary, Drama, Mystery & thriller",English
+1326,Lapsis,2021-02-12,"Sci-fi, Drama, Mystery & thriller, Comedy",English
+1327,Milkwater,2021-05-21,"Comedy, Drama, Lgbtq+",English
+1328,End of Sentence,2020-05-29,Drama,English
+1329,Jackass Forever,2022-02-04,Comedy,English
+1330,The Lost Daughter,2021-12-31,Drama,English
+1331,Fanny: The Right to Rock,2022-05-27,"Documentary, Music",English
+1332,Southwest of Salem: The Story of the San Antonio Four,2016-09-14,Documentary,English
+1333,Remember This,2023-01-27,"Drama, History",English
+1334,The Dark and the Wicked,2020-11-06,"Horror, Mystery & thriller",English
+1335,Roald Dahl's Matilda the Musical,2022-12-09,"Kids & family, Musical, Comedy, Drama, Fantasy",English
+1336,As I Open My Eyes,2016-09-09,Drama,Arabic
+1337,Oasis Knebworth 1996,2021-09-23,"Documentary, Music",English
+1338,I Am Jane Doe,2017-02-10,Documentary,English
+1339,Wasted! The Story of Food Waste,2017-10-13,Documentary,English
+1340,Nise: The Heart of Madness,2017-04-28,"Biography, Drama, History",Portuguese
+1341,Toy Story 4,2019-06-21,"Kids & family, Comedy, Adventure, Fantasy, Animation",English
+1342,The Swearing Jar,2022-09-23,"Romance, Comedy, Music",English
+1343,Good Manners,2018-07-27,"Horror, Fantasy, Lgbtq+",Portuguese
+1344,Matt Shepard Is a Friend of Mine,2015-02-06,"Documentary, Biography, Lgbtq+",English
+1345,I Still Believe,2020-03-13,"Biography, Drama, Romance, Music",English
+1346,Pimp,2018-11-09,"Crime, Drama",English
+1347,Farewell Amor,2020-12-11,Drama,English
+1348,Susanne Bartsch: On Top,2018-09-07,Documentary,English
+1349,Queer Japan,2020-12-11,"Documentary, Lgbtq+",Japanese
+1350,Being 17,2016-10-07,"Drama, Lgbtq+",French
+1351,Black Mother,2019-03-08,Documentary,English
+1352,Descendant,2022-10-21,Documentary,English
+1353,The Disaster Artist,2017-12-08,"Comedy, Drama",English
+1354,Clara Sola,2022-07-01,Drama,Spanish
+1355,De Palma,2016-06-10,Documentary,English
+1356,Lucky,2017-09-29,"Comedy, Drama",English
+1357,C'mon C'mon,2021-11-19,Drama,English
+1358,Wild,2019-04-10,"Drama, Lgbtq+",French
+1359,Just Say Goodbye,2019-05-10,Drama,English
+1360,Rebels of the Neon God,2015-04-10,Drama,Chinese
+1361,The First Fallen,2023-02-17,"Drama, Lgbtq+",Portuguese
+1362,Overcomer,2019-08-23,Drama,English
+1363,Azor,2021-09-10,"Drama, Mystery & thriller",French
+1364,Stoker Hills,2022-01-14,"Horror, Mystery & thriller, Action",English
+1365,On the Seventh Day,2018-06-08,Drama,Spanish
+1366,Cruella,2021-05-28,"Comedy, Kids & family",English
+1367,The Mitchells vs. the Machines,2021-04-23,"Kids & family, Comedy, Adventure, Animation, Action, Sci-fi",English
+1368,Most Likely to Succeed,2019-12-06,Documentary,English
+1369,Certain Women,2016-10-14,Drama,English
+1370,Intelligent Lives,2018-09-21,Documentary,English
+1371,The Levelling,2017-03-24,Drama,English
+1372,Petite Maman,2022-04-22,Drama,French
+1373,Burden,2017-05-05,Documentary,English
+1374,Carol,2016-01-08,"Romance, Drama, Lgbtq+",English
+1375,In Harmony,2016-04-22,"Comedy, Drama",French
+1376,The Innocents,2016-07-01,"History, Drama",French
+1377,The Second Mother,2015-08-28,Drama,Portuguese
+1378,Gook,2017-08-18,"Comedy, Drama",English
+1379,Bloody Hell,2021-01-14,"Horror, Comedy",English
+1380,"Love, Charlie: The Rise and Fall of Chef Charlie Trotter",2022-11-18,Documentary,English
+1381,Listen to Me Marlon,2015-07-29,Documentary,English
+1382,Minyan,2021-10-22,"Drama, Lgbtq+",English
+1383,The Untold Tales of Armistead Maupin,2017-09-22,"Documentary, Lgbtq+",English
+1384,A Son,2021-12-10,Drama,Arabic
+1385,Aware: Glimpses of Consciousness,2021-09-24,Documentary,English
+1386,Troublemakers: The Story of Land Art,2016-01-08,Documentary,English
+1387,I Can Only Imagine,2018-03-16,"Biography, Drama, Music",English
+1388,Little Woods,2019-04-19,Drama,English
+1389,The Man in the Hat,2021-05-14,Comedy,English
+1390,Spider-Man: Homecoming,2017-07-07,"Action, Adventure, Fantasy, Comedy",English
+1391,The Son of Joseph,2017-01-13,Drama,French
+1392,Fruits Basket: Prelude,2022-06-25,"Romance, Anime, Fantasy",Japanese
+1393,Olga,2022-06-24,Drama,Ukrainian
+1394,Enola Holmes 2,2022-10-28,"Mystery & thriller, Drama, Action, Adventure, Crime",English
+1395,Sophie Jones,2021-03-02,Drama,English
+1396,Bad Kids of Crestview Academy,2017-01-13,Mystery & thriller,English
+1397,Dark Horse,2016-05-06,Documentary,English
+1398,The Harder They Fall,2021-10-22,"Western, Drama",English
+1399,We Are Little Zombies,2020-07-10,Drama,Japanese
+1400,Little Girl,2021-09-17,Documentary,French
+1401,God's Own Country,2017-10-25,"Drama, Romance, Lgbtq+",English
+1402,Garry Winogrand: All Things Are Photographable,2018-09-19,Documentary,English
+1403,Free Puppies!,2022-08-12,Documentary,English
+1404,Sui Dhaaga: Made in India,2018-09-28,Drama,Hindi
+1405,"Harry Chapin: When in Doubt, Do Something",2020-10-16,"Documentary, Music",English
+1406,Mars One,2023-01-05,"Drama, Lgbtq+",Portuguese
+1407,Queen of Diamonds,2019-04-26,Drama,English
+1408,Tab Hunter Confidential,2015-10-16,"Documentary, Lgbtq+",English
+1409,The Captain,2019-10-18,Drama,Chinese
+1410,Abominable,2019-09-27,"Kids & family, Comedy, Adventure, Animation",English
+1411,Keep the Change,2018-03-16,"Romance, Comedy",English
+1412,Good Girls Get High,2019-11-08,Comedy,English
+1413,Amazing Grace,2018-11-23,"Documentary, Music",English
+1414,One Piece Film Red,2022-11-04,"Action, Adventure, Anime",Japanese
+1415,Lost in America,2020-02-28,Documentary,English
+1416,Furie,2019-03-01,Action,Vietnamese
+1417,Broadway Rising,2022-12-05,"Drama, Documentary",English
+1418,Arrival,2016-11-11,"Sci-fi, Mystery & thriller, Drama",English
+1419,Pali Road,2016-04-28,"Mystery & thriller, Drama, Romance",Chinese
+1420,The Old Man & the Gun,2018-10-19,"Comedy, Drama, Mystery & thriller",English
+1421,Tod@s caen,2019-08-30,"Romance, Comedy",Spanish
+1422,In the Court of the Crimson King,2022-10-19,"Documentary, Music",English
+1423,Something In The Dirt,2022-11-04,"Sci-fi, Comedy, Horror",English
+1424,Creed III,2023-03-03,Drama,English
+1425,Sword Art Online the Movie: Progressive - Scherzo of Deep Night,2023-02-03,"Sci-fi, Adventure, Fantasy, Anime",Japanese
+1426,Blindspotting,2018-07-27,"Comedy, Drama",English
+1427,Is That a Gun in Your Pocket?,2016-09-16,Comedy,English
+1428,CODA,2021-08-13,Drama,English
+1429,The Dissident,2020-12-25,Documentary,Arabic
+1430,The Silence of Others,2019-05-08,Documentary,Spanish
+1431,When Lambs Become Lions,2019-11-22,Documentary,English
+1432,Our Time Will Come,2017-07-07,"History, Drama, War",Chinese
+1433,Gangubai Kathiawadi,2022-02-25,"Biography, Drama",Hindi
+1434,Star Wars: The Force Awakens,2015-12-18,"Sci-fi, Adventure, Action, Fantasy",English
+1435,The Guardians,2018-05-04,"History, Drama",French
+1436,Bull,2022-04-01,"Mystery & thriller, Drama",English
+1437,Jersey,2022-04-22,Drama,Hindi
+1438,Selma,2015-01-09,"History, Drama",English
+1439,Among the Believers,2016-09-30,Documentary,Urdu
+1440,Fiddler: A Miracle of Miracles,2019-08-23,"Documentary, Music",English
+1441,The Seventh Fire,2016-07-22,"Documentary, Drama",English
+1442,Champions,2023-03-10,Comedy,English
+1443,The Settlers,2017-03-03,Documentary,English
+1444,Maika: The Girl From Another Galaxy,2022-06-03,"Adventure, Kids & family, Sci-fi",Vietnamese
+1445,No Safe Spaces,2019-10-25,Documentary,English
+1446,Raising Bertie,2017-06-09,Documentary,English
+1447,Demon,2016-09-09,"Horror, Mystery & thriller",Polish
+1448,Mister America,2019-10-09,Comedy,English
+1449,The Eternal Daughter,2022-12-02,"Mystery & thriller, Drama",English
+1450,Pause,2019-06-14,Drama,Greek
+1451,Scream VI,2023-03-10,"Horror, Mystery & thriller",English
+1452,The Birthday Cake,2021-06-18,"Mystery & thriller, Crime, Drama",English
+1453,What Lies Upstream,2018-01-12,Documentary,English
+1454,Beast,2018-05-11,"Mystery & thriller, Horror, Romance",English
+1455,Chasing Einstein,2019-09-13,Documentary,English
+1456,Calling All Earthlings,2018-06-29,Documentary,English
+1457,Better Days,2019-11-08,Drama,Chinese
+1458,Flock of Four,2018-04-13,Drama,English
+1459,Quest,2017-12-01,"Documentary, Music",English
+1460,Jonathan Agassi Saved My Life,2022-05-13,"Documentary, Lgbtq+",English
+1461,Bending the Arc,2017-10-06,Documentary,English
+1462,Onward,2020-03-06,"Kids & family, Comedy, Adventure, Fantasy, Animation",English
+1463,Brian Banks,2019-08-09,"Biography, Drama",English
+1464,Devotion,2022-11-23,"War, History, Drama, Action",English
+1465,Rita Moreno: Just a Girl Who Decided to Go For It,2021-06-18,Documentary,English
+1466,We Are As Gods,2022-08-12,Documentary,English
+1467,Janis: Little Girl Blue,2015-11-27,Documentary,English
+1468,Jim Allison: Breakthrough,2019-09-27,Documentary,English
+1469,King in the Wilderness,2018-03-30,Documentary,English
+1470,Hunter Gatherer,2016-11-16,Drama,English
+1471,PAW Patrol: The Movie,2021-08-20,"Kids & family, Comedy, Adventure, Animation",English
+1472,Styx,2019-02-27,"Mystery & thriller, Drama",English
+1473,Booksmart,2019-05-24,"Comedy, Lgbtq+",English
+1474,Major,2022-06-03,"Biography, Action, Drama",Telugu
+1475,Light From Light,2019-11-01,Drama,English
+1476,Kuessipan,2021-03-26,Drama,French
+1477,Nobody,2021-03-26,"Action, Mystery & thriller, Comedy",English
+1478,A Father's Legacy,2021-06-17,Drama,English
+1479,King Jack,2016-06-10,Drama,English
+1480,Strong Island,2017-09-15,Documentary,English
+1481,Creem: America's Only Rock 'n' Roll Magazine,2020-08-07,"Documentary, Music",English
+1482,Every Last Child,2015-06-03,Documentary,Urdu
+1483,For Sama,2019-07-26,"Documentary, War",Arabic
+1484,Are We Not Cats,2018-02-23,"Horror, Comedy",English
+1485,The Last Dalai Lama?,2017-07-28,Documentary,English
+1486,Dangal Yuddham,2016-12-21,"Biography, Drama, Action",Hindi
+1487,The Sea Beast,2022-06-24,"Kids & family, Fantasy, Adventure, Comedy, Animation",English
+1488,Here Today,2021-05-07,"Comedy, Drama",English
+1489,Requiem for the American Dream,2015-04-18,Biography,English
+1490,For the Birds,2019-05-31,"Documentary, Drama",English
+1491,Made in Bangladesh,2020-06-05,Drama,Bangla
+1492,Carmine Street Guitars,2019-04-24,"Documentary, Music",English
+1493,The Last Deal,2023-02-03,"Action, Crime, Drama, Mystery & thriller",English
+1494,The Wrecking Crew,2015-03-13,"Documentary, Music",English
+1495,Under the Wire,2018-11-16,Drama,English
+1496,Notes on Blindness,2016-11-16,Documentary,English
+1497,Bring Your Own Brigade,2021-08-06,Documentary,English
+1498,The Last Tree,2020-06-26,Drama,English
+1499,The Silent Child,2017-08-08,Drama,English
+1500,Won't You Be My Neighbor?,2018-06-29,Documentary,English
+1501,Jungle Cruise,2021-07-30,"Adventure, Action, Comedy, Fantasy",English
+1502,Okko's Inn,2019-04-22,"Fantasy, Anime",Japanese
+1503,In Search of Israeli Cuisine,2016-01-28,Documentary,English
+1504,John Wick: Chapter 4,2023-03-24,Action,English
+1505,Wrestle,2019-02-22,Documentary,English
+1506,The Head Hunter,2019-04-05,"Horror, Fantasy, Adventure",English
+1507,Murina,2022-07-08,Drama,Croatian
+1508,"Lingui, The Sacred Bonds",2022-02-04,Drama,French
+1509,The White Tiger,2021-01-13,Drama,Hindi
+1510,Nothing Compares,2022-09-23,"Documentary, Music, Biography",English
+1511,Beautifully Broken,2018-08-24,Drama,English
+1512,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,2023-01-20,"Fantasy, Adventure, Anime",Japanese
+1513,Rimini,2023-03-17,Drama,German
+1514,Roma,2018-11-21,Drama,Spanish
+1515,Buñuel in the Labyrinth of the Turtles,2019-08-16,"Drama, Animation",Spanish
+1516,Tomorrow's Hope,2021-05-20,Documentary,English
+1517,Juniper,2023-02-24,Drama,English
+1518,Little Women,2019-12-25,Drama,English
+1519,Red Notice,2021-11-05,"Action, Comedy",English
+1520,Nomadland,2021-02-19,Drama,English
+1521,Shaun the Sheep Movie,2015-08-05,"Kids & family, Comedy, Adventure, Animation",English
+1522,Hell or High Seas,2021-10-08,Documentary,English
+1523,Iris,2015-04-29,"Documentary, Biography, History, Drama",English
+1524,Menashe,2017-07-28,"Comedy, Drama",Yiddish
+1525,Depeche Mode: Spirits in the Forest,2019-11-21,"Documentary, Music",English
+1526,Street Gang: How We Got to Sesame Street,2021-04-23,Documentary,English
+1527,Kubo and the Two Strings,2016-08-19,"Kids & family, Fantasy, Adventure, Action, Animation",English
+1528,The Blue Caftan,2023-02-10,Drama,Arabic
+1529,1945,2017-11-01,Drama,Hungarian
+1530,Cicada,2021-10-29,"Drama, Romance, Lgbtq+",English
+1531,'71,2015-02-27,"Action, Mystery & thriller",English
+1532,Nina Wu,2021-03-26,"Mystery & thriller, Drama",Chinese
+1533,How to Blow Up a Pipeline,2023-04-07,"Mystery & thriller, Drama",English
+1534,Motherland,2017-09-08,Documentary,Tagalog
+1535,The Light of the Moon,2017-11-01,Drama,English
+1536,Food Evolution,2017-06-23,Documentary,English
+1537,I Called Him Morgan,2017-03-24,Documentary,English
+1538,After Parkland,2019-11-29,Documentary,English
+1539,Corpus Christi,2020-02-24,Drama,Polish
+1540,Hell or High Water,2016-08-19,"Crime, Drama, Mystery & thriller, Western, Action",English
+1541,Ingrid Bergman: In Her Own Words,2015-11-13,Documentary,Swedish
+1542,The Distant Barking of Dogs,2019-01-11,Documentary,Russian
+1543,Gigi & Nate,2022-09-02,Drama,English
+1544,Pick of the Litter,2018-08-31,Documentary,English
+1545,Shoplifters,2018-11-23,"Crime, Drama, Adventure",Japanese
+1546,Avicii: True Stories,2018-12-14,"Documentary, Music",English
+1547,Summer in the Forest,2018-03-23,Documentary,English
+1548,The Other Side of Hope,2017-12-01,"Comedy, Drama",Finnish
+1549,Knock Down the House,2019-05-01,Documentary,English
+1550,Final Set,2021-08-27,Drama,French
+1551,The Sower,2019-03-01,"History, Drama, Romance",French
+1552,Till,2022-10-28,"Drama, History, Biography",English
+1553,Egg,2019-01-18,Comedy,English
+1554,Just Charlie,2018-01-30,Drama,English
+1555,The Hate U Give,2018-10-19,"Crime, Drama",English
+1556,The Heiresses,2019-01-16,"Drama, Lgbtq+",Spanish
+1557,Western,2018-02-16,Drama,German
+1558,End of the Century,2019-08-16,"Drama, Romance",Spanish
+1559,Gimme Danger,2016-10-28,"Documentary, Music",English
+1560,People's Republic of Desire,2018-11-30,Documentary,Chinese
+1561,The Human Trial,2022-06-24,Documentary,English
+1562,Incredibles 2,2018-06-15,"Kids & family, Comedy, Adventure, Action, Animation",English
+1563,At the Fork,2016-07-13,Documentary,English
+1564,The Conductor,2022-01-27,"Documentary, Music",English
+1565,Night Owls,2015-12-04,"Romance, Comedy",English
+1566,My Darling Vivian,2020-06-19,Documentary,English
+1567,The Youth Governor,2022-08-26,Documentary,English
+1568,The Dark Divide,2020-09-18,"Adventure, Drama",English
+1569,Off the Rails,2016-11-04,Documentary,English
+1570,Finding Babel,2016-10-26,Documentary,English
+1571,Anomalisa,2016-03-18,"Comedy, Drama, Animation",English
+1572,Land of Mine,2017-02-17,"War, History, Drama",German
+1573,Ron's Gone Wrong,2021-10-22,"Kids & family, Comedy, Animation",English
+1574,Long Way North,2016-09-30,"Adventure, Drama, Animation",French
+1575,The Duke of Burgundy,2015-01-23,"Drama, Lgbtq+",English
+1576,Truman & Tennessee: An Intimate Conversation,2021-06-18,"Documentary, Lgbtq+",English
+1577,Pavarotti,2019-06-07,"Documentary, Music",English
+1578,California Typewriter,2017-08-18,Documentary,English
+1579,Full Time,2023-02-03,"Mystery & thriller, Drama",French
+1580,Leaning Into the Wind: Andy Goldsworthy,2018-03-09,Documentary,English
+1581,Master of Light,2022-11-04,Documentary,English
+1582,Ma Rainey's Black Bottom,2020-11-25,"History, Drama, Music",English
+1583,Dying to Survive,2019-08-09,"Comedy, Drama",Chinese
+1584,The Paper Tigers,2021-05-07,"Action, Comedy",English
+1585,Thor: Ragnarok,2017-11-03,"Action, Adventure, Sci-fi, Fantasy, Comedy",English
+1586,Mudbound,2017-11-17,"History, Drama",English
+1587,96 Souls,2017-05-26,"Drama, Mystery & thriller, Sci-fi",English
+1588,Mandibles,2021-07-23,"Comedy, Fantasy",French
+1589,Retrograde,2022-11-11,"Documentary, War",English
+1590,My Journey Through French Cinema,2017-06-23,Documentary,French
+1591,What We Started,2018-03-23,Documentary,English
+1592,Raging Fire,2021-08-13,"Action, Mystery & thriller, Crime",Chinese
+1593,Return to Gorée,2021-06-11,"Documentary, Music",English
+1594,Wildflower,2023-03-17,"Comedy, Drama",English
+1595,Moana,2016-11-23,"Kids & family, Musical, Comedy, Adventure, Animation",English
+1596,Rottentail,2019-04-12,"Horror, Comedy",English
+1597,The First Wave,2021-11-19,Documentary,English
+1598,The Kingmaker,2019-11-08,Documentary,English
+1599,Spider-Man: No Way Home,2021-12-17,"Action, Adventure, Fantasy, Comedy",English
+1600,Reunion,2021-02-05,"Mystery & thriller, Horror",English
+1601,Tehran Taboo,2018-02-14,"Drama, Animation",Persian
+1602,When Today Ends,2021-05-14,Drama,English
+1603,Rodents of Unusual Size,2018-09-14,Documentary,English
+1604,Songs My Brothers Taught Me,2016-03-02,Drama,English
+1605,Best Worst Thing That Ever Could Have Happened,2016-11-18,Documentary,English
+1606,Wait for Your Laugh,2017-11-03,Documentary,English
+1607,First Love,2019-09-27,"Crime, Drama, Comedy",Japanese
+1608,SHOT! The Psycho-Spiritual Mantra of Rock,2017-04-07,"Documentary, Music",English

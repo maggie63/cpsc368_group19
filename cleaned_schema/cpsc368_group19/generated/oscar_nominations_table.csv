@@ -1,0 +1,520 @@
+nomination_id,movie_id,year_film,year_ceremony,ceremony,canon_category,name,winner
+1,737,2019,2020,92,WRITING (Original Screenplay),Rian Johnson,False
+2,43,2020,2021,93,INTERNATIONAL FEATURE FILM,Denmark,True
+3,1321,2020,2021,93,FILM EDITING,Mikkel E. G. Nielsen,True
+4,58,2020,2021,93,DOCUMENTARY (Feature),Garrett Bradley/Lauren Domino/Kellen Quinn,False
+5,795,2020,2021,93,DOCUMENTARY (Feature),Maite Alberdi/Marcela Santibáñez,False
+6,977,2020,2021,93,DOCUMENTARY (Feature),Alexander Nanau/Bianca Oana,False
+7,43,2020,2021,93,DIRECTING,Thomas Vinterberg,False
+8,1582,2020,2021,93,COSTUME DESIGN,Ann Roth,True
+9,961,2020,2021,93,ANIMATED FEATURE FILM,Tomm Moore/Ross Stewart/Paul Young/Stéphan Roelants,False
+10,1462,2020,2021,93,ANIMATED FEATURE FILM,Dan Scanlon/Kori Rae,False
+11,1582,2020,2021,93,ACTRESS IN A LEADING ROLE,Viola Davis,False
+12,1321,2020,2021,93,ACTOR IN A SUPPORTING ROLE,Paul Raci,False
+13,1582,2020,2021,93,ACTOR IN A LEADING ROLE,Chadwick Boseman,False
+14,1321,2020,2021,93,ACTOR IN A LEADING ROLE,Riz Ahmed,False
+15,566,2019,2020,92,WRITING (Original Screenplay),Bong Joon Ho/Han Jin Won,True
+16,783,2019,2020,92,WRITING (Original Screenplay),Noah Baumbach,False
+17,977,2020,2021,93,INTERNATIONAL FEATURE FILM,Romania,False
+18,1518,2019,2020,92,WRITING (Adapted Screenplay),Greta Gerwig,False
+19,534,2019,2020,92,WRITING (Adapted Screenplay),Taika Waititi,True
+20,986,2019,2020,92,WRITING (Adapted Screenplay),Steven Zaillian,False
+21,986,2019,2020,92,VISUAL EFFECTS,Pablo Helman/Leandro Estebecorena/Nelson Sepulveda-Fauser/Stephane Grabli,False
+22,1203,2019,2020,92,VISUAL EFFECTS,Dan DeLeeuw/Russell Earl/Matt Aitken/Dan Sudick,False
+23,1161,2019,2020,92,SOUND MIXING,Paul Massey/David Giammarco/Steven A. Morrow,False
+24,1161,2019,2020,92,SOUND EDITING,Donald Sylvester,True
+25,566,2019,2020,92,ART DIRECTION,Lee Ha Jun/Cho Won Woo,False
+26,534,2019,2020,92,ART DIRECTION,Ra Vincent/Nora Sopková,False
+27,986,2019,2020,92,ART DIRECTION,Bob Shaw/Regina Graves,False
+28,566,2019,2020,92,BEST PICTURE,Kwak Sin Ae/Bong Joon Ho,True
+29,783,2019,2020,92,BEST PICTURE,Noah Baumbach/David Heyman,False
+30,1518,2019,2020,92,BEST PICTURE,Amy Pascal,False
+31,534,2019,2020,92,BEST PICTURE,Carthew Neal/Taika Waititi/Chelsea Winstanley,False
+32,849,2021,2022,94,ACTRESS IN A LEADING ROLE,Penélope Cruz,False
+33,1366,2021,2022,94,COSTUME DESIGN,Jenny Beavan,True
+34,3,2021,2022,94,CINEMATOGRAPHY,Janusz Kaminski,False
+35,480,2021,2022,94,CINEMATOGRAPHY,Bruno Delbonnel,False
+36,1082,2021,2022,94,CINEMATOGRAPHY,Ari Wegner,False
+37,247,2021,2022,94,ANIMATED FEATURE FILM,Don Hall/Carlos López Estrada/Osnat Shurer/Peter Del Vecho,False
+38,1367,2021,2022,94,ANIMATED FEATURE FILM,Mike Rianda/Phil Lord/Christopher Miller/Kurt Albrecht,False
+39,1319,2021,2022,94,ANIMATED FEATURE FILM,Enrico Casarosa/Andrea Warren,False
+40,56,2021,2022,94,ANIMATED FEATURE FILM,Jonas Poher Rasmussen/Monica Hellström/Signe Byrge Sørensen/Charlotte De La Gournerie,False
+41,1242,2021,2022,94,ANIMATED FEATURE FILM,Jared Bush/Byron Howard/Yvett Merino/Clark Spencer,True
+42,167,2021,2022,94,ACTRESS IN A SUPPORTING ROLE,Aunjanue Ellis,False
+43,1082,2021,2022,94,ACTRESS IN A SUPPORTING ROLE,Kirsten Dunst,False
+44,369,2021,2022,94,ACTRESS IN A SUPPORTING ROLE,Judi Dench,False
+45,3,2021,2022,94,ACTRESS IN A SUPPORTING ROLE,Ariana DeBose,True
+46,1330,2021,2022,94,ACTRESS IN A SUPPORTING ROLE,Jessie Buckley,False
+47,986,2019,2020,92,BEST PICTURE,Martin Scorsese/Robert De Niro/Jane Rosenthal/Emma Tillinger Koskoff,False
+48,1330,2021,2022,94,ACTRESS IN A LEADING ROLE,Olivia Colman,False
+49,1082,2021,2022,94,ACTOR IN A SUPPORTING ROLE,Kodi Smit-McPhee,False
+50,1082,2021,2022,94,ACTOR IN A SUPPORTING ROLE,Jesse Plemons,False
+51,1428,2021,2022,94,ACTOR IN A SUPPORTING ROLE,Troy Kotsur,True
+52,369,2021,2022,94,ACTOR IN A SUPPORTING ROLE,Ciarán Hinds,False
+53,480,2021,2022,94,ACTOR IN A LEADING ROLE,Denzel Washington,False
+54,167,2021,2022,94,ACTOR IN A LEADING ROLE,Will Smith,True
+55,1082,2021,2022,94,ACTOR IN A LEADING ROLE,Benedict Cumberbatch,False
+56,1321,2020,2021,93,WRITING (Original Screenplay),Darius Marder/Abraham Marder/Derek Cianfrance,False
+57,1083,2020,2021,93,VISUAL EFFECTS,Matt Sloan/Genevieve Camilleri/Matt Everitt/Brian Cox,False
+58,1321,2020,2021,93,SOUND MIXING,Nicolas Becker/Jaime Baksht/Michellee Couttolenc/Carlos Cortés/Phillip Bladh,True
+59,1582,2020,2021,93,ART DIRECTION,Mark Ricker/Karen O'Hara/Diana Stoughton,False
+60,1321,2020,2021,93,BEST PICTURE,Bert Hamelinck/Sacha Ben Harroche,False
+61,1582,2020,2021,93,MAKEUP AND HAIRSTYLING,Sergio Lopez-Rivera/Mia Neal/Jamika Wilson,True
+62,1166,2018,2019,91,VISUAL EFFECTS,Dan DeLeeuw/Kelly Port/Russell Earl/Dan Sudick,False
+63,37,2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Kathy Bates,False
+64,1518,2019,2020,92,ACTRESS IN A LEADING ROLE,Saoirse Ronan,False
+65,783,2019,2020,92,ACTRESS IN A LEADING ROLE,Scarlett Johansson,False
+66,1219,2019,2020,92,ACTRESS IN A LEADING ROLE,Cynthia Erivo,False
+67,986,2019,2020,92,ACTOR IN A SUPPORTING ROLE,Joe Pesci,False
+68,986,2019,2020,92,ACTOR IN A SUPPORTING ROLE,Al Pacino,False
+69,18,2019,2020,92,ACTOR IN A SUPPORTING ROLE,Tom Hanks,False
+70,783,2019,2020,92,ACTOR IN A LEADING ROLE,Adam Driver,False
+71,690,2019,2020,92,ACTOR IN A LEADING ROLE,Antonio Banderas,False
+72,1514,2018,2019,91,WRITING (Original Screenplay),Alfonso Cuarón,False
+73,604,2018,2019,91,WRITING (Original Screenplay),Nick Vallelonga/Brian Currie/Peter Farrelly,True
+74,177,2018,2019,91,WRITING (Original Screenplay),Paul Schrader,False
+75,614,2018,2019,91,WRITING (Original Screenplay),Deborah Davis/Tony McNamara,False
+76,606,2018,2019,91,WRITING (Adapted Screenplay),Nicole Holofcener/Jeff Whitty,False
+77,668,2015,2016,88,MAKEUP AND HAIRSTYLING,Lesley Vanderwalt/Elka Wardega/Damian Martin,True
+78,783,2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Laura Dern,True
+79,1514,2018,2019,91,SOUND MIXING,Skip Lievsay/Craig Henighan/José Antonio García,False
+80,464,2018,2019,91,SOUND MIXING,Steve Boeddeker/Brandon Proctor/Peter Devlin,False
+81,1514,2018,2019,91,SOUND EDITING,Sergio Díaz/Skip Lievsay,False
+82,266,2018,2019,91,SOUND EDITING,Ethan Van der Ryn/Erik Aadahl,False
+83,464,2018,2019,91,SOUND EDITING,Benjamin A. Burtt/Steve Boeddeker,False
+84,1514,2018,2019,91,ART DIRECTION,Eugenio Caballero/Bárbara Enríquez,False
+85,614,2018,2019,91,ART DIRECTION,Fiona Crombie/Alice Felton,False
+86,464,2018,2019,91,ART DIRECTION,Hannah Beachler/Jay Hart,True
+87,1514,2018,2019,91,BEST PICTURE,Gabriela Rodríguez/Alfonso Cuarón,False
+88,604,2018,2019,91,BEST PICTURE,Jim Burke/Charles B. Wessler/Brian Currie/Peter Farrelly/Nick Vallelonga,True
+89,614,2018,2019,91,BEST PICTURE,Ceci Dempsey/Ed Guiney/Lee Magiday/Yorgos Lanthimos,False
+90,810,2018,2019,91,BEST PICTURE,Sean McKittrick/Jason Blum/Raymond Mansfield/Jordan Peele/Spike Lee,False
+91,464,2018,2019,91,BEST PICTURE,Kevin Feige,False
+92,1299,2018,2019,91,MUSIC (Original Song),Diane Warren,False
+93,434,2019,2020,92,DOCUMENTARY (Feature),Ljubo Stefanov/Tamara Kotevska/Atanas Georgiev,False
+94,1161,2019,2020,92,BEST PICTURE,Peter Chernin/Jenno Topping/James Mangold,False
+95,1219,2019,2020,92,MUSIC (Original Song),Joshuah Brian Campbell/Cynthia Erivo,False
+96,999,2019,2020,92,MUSIC (Original Song),Kristen Anderson-Lopez/Robert Lopez,False
+97,1341,2019,2020,92,MUSIC (Original Song),Randy Newman,False
+98,783,2019,2020,92,MUSIC (Original Score),Randy Newman,False
+99,1518,2019,2020,92,MUSIC (Original Score),Alexandre Desplat,False
+100,1237,2019,2020,92,MAKEUP AND HAIRSTYLING,Paul Gooch/Arjen Tuiten/David White,False
+101,566,2019,2020,92,INTERNATIONAL FEATURE FILM,South Korea,True
+102,690,2019,2020,92,INTERNATIONAL FEATURE FILM,Spain,False
+103,434,2019,2020,92,INTERNATIONAL FEATURE FILM,North Macedonia,False
+104,566,2019,2020,92,FILM EDITING,Yang Jinmo,False
+105,534,2019,2020,92,FILM EDITING,Tom Eagles,False
+106,986,2019,2020,92,FILM EDITING,Thelma Schoonmaker,False
+107,1161,2019,2020,92,FILM EDITING,Michael McCusker/Andrew Buckland,True
+108,3,2021,2022,94,COSTUME DESIGN,Paul Tazewell,False
+109,1483,2019,2020,92,DOCUMENTARY (Feature),Waad al-Kateab/Edward Watts,False
+110,4,2019,2020,92,DOCUMENTARY (Feature),Petra Costa/Joanna Natasegara/Shane Boris/Tiago Pavan,False
+111,902,2019,2020,92,DOCUMENTARY (Feature),Steven Bognar/Julia Reichert/Jeff Reichert,True
+112,566,2019,2020,92,DIRECTING,Bong Joon Ho,True
+113,986,2019,2020,92,DIRECTING,Martin Scorsese,False
+114,1518,2019,2020,92,COSTUME DESIGN,Jacqueline Durran,True
+115,534,2019,2020,92,COSTUME DESIGN,Mayes C. Rubeo,False
+116,986,2019,2020,92,COSTUME DESIGN,Sandy Powell/Christopher Peterson,False
+117,986,2019,2020,92,CINEMATOGRAPHY,Rodrigo Prieto,False
+118,1341,2019,2020,92,ANIMATED FEATURE FILM,Josh Cooley/Mark Nielsen/Jonas Rivera,True
+119,919,2019,2020,92,ANIMATED FEATURE FILM,Sergio Pablos/Jinko Gotoh/Marisa Román,False
+120,154,2019,2020,92,ANIMATED FEATURE FILM,Jérémy Clapin/Marc du Pontavice,False
+121,1518,2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Florence Pugh,False
+122,534,2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Scarlett Johansson,False
+123,1069,2022,2023,95,DIRECTING,Todd Field,False
+124,449,2022,2023,95,MAKEUP AND HAIRSTYLING,Mark Coulier/Jason Baird/Aldo Signoretti,False
+125,717,2022,2023,95,MAKEUP AND HAIRSTYLING,Camille Friend/Joel Harlow,False
+126,317,2022,2023,95,INTERNATIONAL FEATURE FILM,Ireland,False
+127,547,2022,2023,95,INTERNATIONAL FEATURE FILM,Poland,False
+128,373,2022,2023,95,INTERNATIONAL FEATURE FILM,Belgium,False
+129,1226,2022,2023,95,INTERNATIONAL FEATURE FILM,Argentina,False
+130,794,2022,2023,95,FILM EDITING,Eddie Hamilton,False
+131,1069,2022,2023,95,FILM EDITING,Monika Willi,False
+132,403,2022,2023,95,FILM EDITING,Paul Rogers,True
+133,449,2022,2023,95,FILM EDITING,Matt Villa/Jonathan Redmond,False
+134,922,2022,2023,95,FILM EDITING,Mikkel E.G. Nielsen,False
+135,929,2022,2023,95,DOCUMENTARY (Feature),Daniel Roher/Odessa Rae/Diane Becker/Melanie Miller/Shane Boris,True
+136,874,2022,2023,95,DOCUMENTARY (Feature),Sara Dosa/Shane Boris/Ina Fichman,False
+137,78,2022,2023,95,DOCUMENTARY (Feature),Laura Poitras/Howard Gertler/John Lyons/Nan Goldin/Yoni Golijov,False
+138,766,2022,2023,95,DOCUMENTARY (Feature),Shaunak Sen/Aman Mann/Teddy Leifer,False
+139,1105,2022,2023,95,MAKEUP AND HAIRSTYLING,Adrien Morot/Judy Chin/Annemarie Bradley,True
+140,438,2022,2023,95,DIRECTING,Steven Spielberg,False
+141,403,2022,2023,95,DIRECTING,Daniel Kwan/Daniel Scheinert,True
+142,922,2022,2023,95,DIRECTING,Martin McDonagh,False
+143,860,2022,2023,95,COSTUME DESIGN,Jenny Beavan,False
+144,403,2022,2023,95,COSTUME DESIGN,Shirley Kurata,False
+145,449,2022,2023,95,COSTUME DESIGN,Catherine Martin,False
+146,717,2022,2023,95,COSTUME DESIGN,Ruth Carter,True
+147,1069,2022,2023,95,CINEMATOGRAPHY,Florian Hoffmeister,False
+148,449,2022,2023,95,CINEMATOGRAPHY,Mandy Walker,False
+149,1487,2022,2023,95,ANIMATED FEATURE FILM,Chris Williams/Jed Schlanger,False
+150,828,2022,2023,95,ANIMATED FEATURE FILM,Joel Crawford/Mark Swift,False
+151,680,2022,2023,95,ANIMATED FEATURE FILM,Dean Fleischer Camp/Elisabeth Holm/Andrew Goldman/Caroline Kaplan/Paul Mezey,False
+152,344,2022,2023,95,ANIMATED FEATURE FILM,Guillermo del Toro/Mark Gustafson/Gary Ungar/Alex Bulkley,True
+153,403,2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Stephanie Hsu,False
+154,959,2022,2023,95,ART DIRECTION,Dylan Cole/Ben Procter/Vanessa Cole,False
+155,959,2022,2023,95,BEST PICTURE,James Cameron/Jon Landau,False
+156,668,2015,2016,88,CINEMATOGRAPHY,John Seale,False
+157,794,2022,2023,95,VISUAL EFFECTS,Ryan Tudhope/Seth Hill/Bryan Litson/Scott R. Fisher,False
+158,608,2015,2016,88,ACTOR IN A LEADING ROLE,Matt Damon,False
+159,1069,2022,2023,95,WRITING (Original Screenplay),Todd Field,False
+160,438,2022,2023,95,WRITING (Original Screenplay),Steven Spielberg/Tony Kushner,False
+161,134,2022,2023,95,WRITING (Adapted Screenplay),Rian Johnson,False
+162,717,2022,2023,95,VISUAL EFFECTS,Geoffrey Baumann/Craig Hammack/R. Christopher White/Dan Sudick,False
+163,959,2022,2023,95,VISUAL EFFECTS,Joe Letteri/Richard Baneham/Eric Saindon/Daniel Barrett,True
+164,794,2022,2023,95,SOUND MIXING,Mark Weingarten/James H. Mather/Al Nelson/Chris Burdon/Mark Taylor,True
+165,449,2022,2023,95,SOUND MIXING,David Lee/Wayne Pashley/Andy Nelson/Michael Keller,False
+166,959,2022,2023,95,SOUND MIXING,Julian Howarth/Gwendolyn Yates Whittle/Dick Bernstein/Christopher Boyes/Gary Summers/Michael Hedges,False
+167,438,2022,2023,95,ART DIRECTION,Rick Carter/Karen O'Hara,False
+168,449,2022,2023,95,ART DIRECTION,Catherine Martin/Karen Murphy/Bev Dunn,False
+169,403,2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Jamie Lee Curtis,True
+170,794,2022,2023,95,BEST PICTURE,Tom Cruise/Christopher McQuarrie/David Ellison/Jerry Bruckheimer,False
+171,1069,2022,2023,95,BEST PICTURE,Todd Field/Alexandra Milchan/Scott Lambert,False
+172,438,2022,2023,95,BEST PICTURE,Kristie Macosko Krieger/Steven Spielberg/Tony Kushner,False
+173,403,2022,2023,95,BEST PICTURE,Daniel Kwan/Daniel Scheinert/Jonathan Wang,True
+174,449,2022,2023,95,BEST PICTURE,Baz Luhrmann/Catherine Martin/Gail Berman/Patrick McCormick/Schuyler Weiss,False
+175,922,2022,2023,95,BEST PICTURE,Graham Broadbent/Pete Czernin/Martin McDonagh,False
+176,922,2022,2023,95,WRITING (Original Screenplay),Martin McDonagh,False
+177,403,2022,2023,95,MUSIC (Original Song),Ryan Lott/David Byrne/Mitski,False
+178,452,2022,2023,95,MUSIC (Original Song),M.M. Keeravaani/Chandrabose,True
+179,717,2022,2023,95,MUSIC (Original Song),Tems/Rihanna/Ryan Coogler/Ludwig Goransson,False
+180,794,2022,2023,95,MUSIC (Original Song),Lady Gaga/BloodPop,False
+181,438,2022,2023,95,MUSIC (Original Score),John Williams,False
+182,403,2022,2023,95,MUSIC (Original Score),Son Lux,False
+183,922,2022,2023,95,MUSIC (Original Score),Carter Burwell,False
+184,1242,2021,2022,94,MUSIC (Original Score),Germaine Franco,False
+185,480,2021,2022,94,ART DIRECTION,Stefan Dechant/Nancy Haigh,False
+186,1082,2021,2022,94,ART DIRECTION,Grant Major/Amber Richards,False
+187,3,2021,2022,94,BEST PICTURE,Steven Spielberg/Kristie Macosko Krieger,False
+188,1082,2021,2022,94,BEST PICTURE,Jane Campion/Tanya Seghatchian/Emile Sherman/Iain Canning/Roger Frappier,False
+189,345,2021,2022,94,BEST PICTURE,Sara Murphy/Adam Somner/Paul Thomas Anderson,False
+190,167,2021,2022,94,BEST PICTURE,Tim White/Trevor White/Will Smith,False
+191,40,2021,2022,94,BEST PICTURE,Teruhisa Yamamoto,False
+192,1428,2021,2022,94,BEST PICTURE,Philippe Rousselet/Fabrice Gianfermi/Patrick Wachsberger,True
+193,369,2021,2022,94,BEST PICTURE,Laura Berwick/Kenneth Branagh/Becca Kovacik/Tamar Thomas,False
+194,369,2021,2022,94,MUSIC (Original Song),Van Morrison,False
+195,1242,2021,2022,94,MUSIC (Original Song),Lin-Manuel Miranda,False
+196,167,2021,2022,94,MUSIC (Original Song),DIXSON/Beyoncé Knowles-Carter,False
+197,1082,2021,2022,94,MUSIC (Original Score),Jonny Greenwood,False
+198,849,2021,2022,94,MUSIC (Original Score),Alberto Iglesias,False
+199,3,2021,2022,94,ART DIRECTION,Adam Stockhausen/Rena DeAngelo,False
+200,1366,2021,2022,94,MAKEUP AND HAIRSTYLING,Nadia Stacey/Naomi Donne/Julia Vernon,False
+201,56,2021,2022,94,INTERNATIONAL FEATURE FILM,Denmark,False
+202,40,2021,2022,94,INTERNATIONAL FEATURE FILM,Japan,True
+203,1082,2021,2022,94,FILM EDITING,Peter Sciberras,False
+204,167,2021,2022,94,FILM EDITING,Pamela Martin,False
+205,527,2021,2022,94,DOCUMENTARY (Feature),Rintu Thomas/Sushmit Ghosh,False
+206,1052,2021,2022,94,DOCUMENTARY (Feature),"Ahmir ""Questlove"" Thompson/Joseph Patel/Robert Fyvolent/David Dinerstein",True
+207,56,2021,2022,94,DOCUMENTARY (Feature),Jonas Poher Rasmussen/Monica Hellström/Signe Byrge Sørensen/Charlotte De La Gournerie,False
+208,545,2021,2022,94,DOCUMENTARY (Feature),Jessica Kingdon/Kira Simon-Kennedy/Nathan Truesdell,False
+209,3,2021,2022,94,DIRECTING,Steven Spielberg,False
+210,1082,2021,2022,94,DIRECTING,Jane Campion,True
+211,345,2021,2022,94,DIRECTING,Paul Thomas Anderson,False
+212,40,2021,2022,94,DIRECTING,Ryusuke Hamaguchi,False
+213,369,2021,2022,94,DIRECTING,Kenneth Branagh,False
+214,922,2022,2023,95,ACTOR IN A LEADING ROLE,Colin Farrell,False
+215,922,2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Kerry Condon,False
+216,1105,2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Hong Chau,False
+217,717,2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Angela Bassett,False
+218,403,2022,2023,95,ACTRESS IN A LEADING ROLE,Michelle Yeoh,True
+219,438,2022,2023,95,ACTRESS IN A LEADING ROLE,Michelle Williams,False
+220,743,2022,2023,95,ACTRESS IN A LEADING ROLE,Andrea Riseborough,False
+221,1069,2022,2023,95,ACTRESS IN A LEADING ROLE,Cate Blanchett,False
+222,403,2022,2023,95,ACTOR IN A SUPPORTING ROLE,Ke Huy Quan,True
+223,922,2022,2023,95,ACTOR IN A SUPPORTING ROLE,Barry Keoghan,False
+224,438,2022,2023,95,ACTOR IN A SUPPORTING ROLE,Judd Hirsch,False
+225,922,2022,2023,95,ACTOR IN A SUPPORTING ROLE,Brendan Gleeson,False
+226,1232,2022,2023,95,ACTOR IN A LEADING ROLE,Bill Nighy,False
+227,1049,2022,2023,95,ACTOR IN A LEADING ROLE,Paul Mescal,False
+228,1105,2022,2023,95,ACTOR IN A LEADING ROLE,Brendan Fraser,True
+229,810,2018,2019,91,WRITING (Adapted Screenplay),Charlie Wachtel/David Rabinowitz/Kevin Willmott/Spike Lee,True
+230,449,2022,2023,95,ACTOR IN A LEADING ROLE,Austin Butler,False
+231,345,2021,2022,94,WRITING (Original Screenplay),Paul Thomas Anderson,False
+232,167,2021,2022,94,WRITING (Original Screenplay),Zach Baylin,False
+233,369,2021,2022,94,WRITING (Original Screenplay),Kenneth Branagh,True
+234,1082,2021,2022,94,WRITING (Adapted Screenplay),Jane Campion,False
+235,1330,2021,2022,94,WRITING (Adapted Screenplay),Maggie Gyllenhaal,False
+236,40,2021,2022,94,WRITING (Adapted Screenplay),Ryusuke Hamaguchi/Takamasa Oe,False
+237,1428,2021,2022,94,WRITING (Adapted Screenplay),Siân Heder,True
+238,1599,2021,2022,94,VISUAL EFFECTS,Kelly Port/Chris Waegner/Scott Edelstein/Dan Sudick,False
+239,354,2021,2022,94,VISUAL EFFECTS,Christopher Townsend/Joe Farrell/Sean Noel Walker/Dan Oliver,False
+240,1145,2021,2022,94,VISUAL EFFECTS,Swen Gillberg/Bryan Grill/Nikos Kalaitzidis/Dan Sudick,False
+241,3,2021,2022,94,SOUND MIXING,Tod A. Maitland/Gary Rydstrom/Brian Chumney/Andy Nelson/Shawn Murphy,False
+242,1082,2021,2022,94,SOUND MIXING,Richard Flynn/Robert Mackenzie/Tara Webb,False
+243,369,2021,2022,94,SOUND MIXING,Denise Yarde/Simon Chase/James Mather/Niv Adiri,False
+244,1418,2016,2017,89,DIRECTING,Denis Villeneuve,False
+245,61,2016,2017,89,MUSIC (Original Score),Justin Hurwitz,True
+246,445,2016,2017,89,MAKEUP AND HAIRSTYLING,Eva von Bahr/Love Larson,False
+247,193,2016,2017,89,INTERNATIONAL FEATURE FILM,Germany,False
+248,445,2016,2017,89,INTERNATIONAL FEATURE FILM,Sweden,False
+249,662,2016,2017,89,FILM EDITING,Nat Sanders/Joi McMillon,False
+250,61,2016,2017,89,FILM EDITING,Tom Cross,False
+251,1540,2016,2017,89,FILM EDITING,Jake Roberts,False
+252,626,2016,2017,89,FILM EDITING,John Gilbert,True
+253,1418,2016,2017,89,FILM EDITING,Joe Walker,False
+254,232,2016,2017,89,DOCUMENTARY (Feature),Roger Ross Williams/Julie Goldman,False
+255,21,2016,2017,89,DOCUMENTARY (Feature),Gianfranco Rosi/Donatella Palermo,False
+256,662,2016,2017,89,DIRECTING,Barry Jenkins,False
+257,774,2016,2017,89,DIRECTING,Kenneth Lonergan,False
+258,61,2016,2017,89,DIRECTING,Damien Chazelle,True
+259,626,2016,2017,89,DIRECTING,Mel Gibson,False
+260,448,2016,2017,89,MUSIC (Original Score),Dustin O'Halloran/Hauschka,False
+261,61,2016,2017,89,COSTUME DESIGN,Mary Zophres,False
+262,662,2016,2017,89,CINEMATOGRAPHY,James Laxton,False
+263,448,2016,2017,89,CINEMATOGRAPHY,Greig Fraser,False
+264,61,2016,2017,89,CINEMATOGRAPHY,Linus Sandgren,True
+265,1418,2016,2017,89,CINEMATOGRAPHY,Bradford Young,False
+266,441,2016,2017,89,ANIMATED FEATURE FILM,Byron Howard/Rich Moore/Clark Spencer,True
+267,1595,2016,2017,89,ANIMATED FEATURE FILM,John Musker/Ron Clements/Osnat Shurer,False
+268,1527,2016,2017,89,ANIMATED FEATURE FILM,Travis Knight/Arianne Sutner,False
+269,774,2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Michelle Williams,False
+270,448,2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Nicole Kidman,False
+271,662,2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Naomie Harris,False
+272,1218,2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Viola Davis,True
+273,61,2016,2017,89,ACTRESS IN A LEADING ROLE,Emma Stone,True
+274,954,2016,2017,89,ACTRESS IN A LEADING ROLE,Isabelle Huppert,False
+275,448,2016,2017,89,ACTOR IN A SUPPORTING ROLE,Dev Patel,False
+276,1418,2016,2017,89,SOUND EDITING,Sylvain Bellemare,True
+277,969,2017,2018,90,ACTOR IN A LEADING ROLE,Daniel Kaluuya,False
+278,774,2016,2017,89,WRITING (Original Screenplay),Kenneth Lonergan,True
+279,61,2016,2017,89,WRITING (Original Screenplay),Damien Chazelle,False
+280,1540,2016,2017,89,WRITING (Original Screenplay),Taylor Sheridan,False
+281,662,2016,2017,89,WRITING (Adapted Screenplay),Barry Jenkins/Tarell Alvin McCraney,True
+282,448,2016,2017,89,WRITING (Adapted Screenplay),Luke Davies,False
+283,1218,2016,2017,89,WRITING (Adapted Screenplay),August Wilson,False
+284,1418,2016,2017,89,WRITING (Adapted Screenplay),Eric Heisserer,False
+285,464,2018,2019,91,MUSIC (Original Song),"Kendrick Lamar/Mark ""Sounwave"" Spears/Anthony ""Top Dawg"" Tiffith/SZA",False
+286,194,2016,2017,89,VISUAL EFFECTS,Robert Legato/Adam Valdez/Andrew R. Jones/Dan Lemmon,True
+287,61,2016,2017,89,SOUND MIXING,Andy Nelson/Ai-Ling Lee/Steve A. Morrow,False
+288,626,2016,2017,89,SOUND MIXING,Kevin O'Connell/Andy Wright/Robert Mackenzie/Peter Grace,True
+289,1418,2016,2017,89,SOUND MIXING,Bernard Gariépy Strobl/Claude La Haye,False
+290,61,2016,2017,89,SOUND EDITING,Ai-Ling Lee/Mildred Iatrou Morgan,False
+291,626,2016,2017,89,SOUND EDITING,Robert Mackenzie/Andy Wright,False
+292,774,2016,2017,89,ACTOR IN A SUPPORTING ROLE,Lucas Hedges,False
+293,61,2016,2017,89,ART DIRECTION,David Wasco/Sandy Reynolds-Wasco,True
+294,1418,2016,2017,89,ART DIRECTION,Patrice Vermette/Paul Hotte,False
+295,662,2016,2017,89,BEST PICTURE,Adele Romanski/Dede Gardner/Jeremy Kleiner,True
+296,774,2016,2017,89,BEST PICTURE,Matt Damon/Kimberly Steward/Chris Moore/Lauren Beck/Kevin J. Walsh,False
+297,448,2016,2017,89,BEST PICTURE,Emile Sherman/Iain Canning/Angie Fielder,False
+298,61,2016,2017,89,BEST PICTURE,Fred Berger/Jordan Horowitz/Marc Platt,False
+299,1540,2016,2017,89,BEST PICTURE,Carla Hacken/Julie Yorn,False
+300,626,2016,2017,89,BEST PICTURE,Bill Mechanic/David Permut,False
+301,1218,2016,2017,89,BEST PICTURE,Scott Rudin/Denzel Washington/Todd Black,False
+302,1418,2016,2017,89,BEST PICTURE,Shawn Levy/Dan Levine/Aaron Ryder/David Linde,False
+303,1595,2016,2017,89,MUSIC (Original Song),Lin-Manuel Miranda,False
+304,61,2016,2017,89,MUSIC (Original Song),Justin Hurwitz/Benj Pasek/Justin Paul,True
+305,61,2016,2017,89,MUSIC (Original Song),Justin Hurwitz/Benj Pasek/Justin Paul,False
+306,662,2016,2017,89,MUSIC (Original Score),Nicholas Britell,False
+307,146,2015,2016,88,DIRECTING,Tom McCarthy,False
+308,691,2015,2016,88,BEST PICTURE,Finola Dwyer/Amanda Posey,False
+309,640,2015,2016,88,BEST PICTURE,Steven Spielberg/Marc Platt/Kristie Macosko Krieger,False
+310,1121,2015,2016,88,MUSIC (Original Song),Diane Warren/Lady Gaga,False
+311,1434,2015,2016,88,MUSIC (Original Score),John Williams,False
+312,1046,2015,2016,88,MUSIC (Original Score),Jóhann Jóhannsson,False
+313,640,2015,2016,88,MUSIC (Original Score),Thomas Newman,False
+314,403,2022,2023,95,WRITING (Original Screenplay),Daniel Kwan/Daniel Scheinert,True
+315,310,2015,2016,88,INTERNATIONAL FEATURE FILM,Jordan,False
+316,1315,2015,2016,88,INTERNATIONAL FEATURE FILM,Hungary,True
+317,925,2015,2016,88,INTERNATIONAL FEATURE FILM,France,False
+318,1434,2015,2016,88,FILM EDITING,Maryann Brandon/Mary Jo Markey,False
+319,146,2015,2016,88,FILM EDITING,Tom McArdle,False
+320,668,2015,2016,88,FILM EDITING,Margaret Sixel,True
+321,94,2015,2016,88,DOCUMENTARY (Feature),Joshua Oppenheimer/Signe Byrge Sørensen,False
+322,798,2015,2016,88,DOCUMENTARY (Feature),Asif Kapadia/James Gay-Rees,True
+323,668,2015,2016,88,BEST PICTURE,Doug Mitchell/George Miller,False
+324,668,2015,2016,88,DIRECTING,George Miller,False
+325,668,2015,2016,88,COSTUME DESIGN,Jenny Beavan,True
+326,1046,2015,2016,88,CINEMATOGRAPHY,Roger Deakins,False
+327,1232,2022,2023,95,WRITING (Adapted Screenplay),Kazuo Ishiguro,False
+328,794,2022,2023,95,WRITING (Adapted Screenplay),Ehren Kruger/Eric Warren Singer/Christopher McQuarrie/Peter Craig/Justin Marks,False
+329,131,2015,2016,88,ANIMATED FEATURE FILM,Hiromasa Yonebayashi/Yoshiaki Nishimura,False
+330,1521,2015,2016,88,ANIMATED FEATURE FILM,Mark Burton/Richard Starzak,False
+331,421,2015,2016,88,ANIMATED FEATURE FILM,Pete Docter/Jonas Rivera,True
+332,536,2015,2016,88,ANIMATED FEATURE FILM,Alê Abreu,False
+333,146,2015,2016,88,ACTRESS IN A SUPPORTING ROLE,Rachel McAdams,False
+334,691,2015,2016,88,ACTRESS IN A LEADING ROLE,Saoirse Ronan,False
+335,55,2015,2016,88,ACTRESS IN A LEADING ROLE,Charlotte Rampling,False
+336,346,2015,2016,88,ACTOR IN A SUPPORTING ROLE,Sylvester Stallone,False
+337,640,2015,2016,88,ACTOR IN A SUPPORTING ROLE,Mark Rylance,True
+338,146,2015,2016,88,ACTOR IN A SUPPORTING ROLE,Mark Ruffalo,False
+339,668,2015,2016,88,VISUAL EFFECTS,Andrew Jackson/Tom Wood/Dan Oliver/Andy Williams,False
+340,1540,2016,2017,89,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,False
+341,662,2016,2017,89,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,True
+342,1218,2016,2017,89,ACTOR IN A LEADING ROLE,Denzel Washington,False
+343,61,2016,2017,89,ACTOR IN A LEADING ROLE,Ryan Gosling,False
+344,626,2016,2017,89,ACTOR IN A LEADING ROLE,Andrew Garfield,False
+345,774,2016,2017,89,ACTOR IN A LEADING ROLE,Casey Affleck,True
+346,323,2015,2016,88,WRITING (Original Screenplay),Jonathan Herman/Andrea Berloff/S. Leigh Savidge/Alan Wenkus,False
+347,146,2015,2016,88,WRITING (Original Screenplay),Josh Singer/Tom McCarthy,True
+348,421,2015,2016,88,WRITING (Original Screenplay),Pete Docter/Meg LeFauve/Josh Cooley/Ronnie del Carmen,False
+349,905,2015,2016,88,WRITING (Original Screenplay),Alex Garland,False
+350,640,2015,2016,88,WRITING (Original Screenplay),Matt Charman/Ethan Coen/Joel Coen,False
+351,608,2015,2016,88,WRITING (Adapted Screenplay),Drew Goddard,False
+352,691,2015,2016,88,WRITING (Adapted Screenplay),Nick Hornby,False
+353,1434,2015,2016,88,VISUAL EFFECTS,Roger Guyett/Patrick Tubach/Neal Scanlan/Chris Corbould,False
+354,608,2015,2016,88,VISUAL EFFECTS,Richard Stammers/Anders Langlands/Chris Lawrence/Steven Warner,False
+355,1527,2016,2017,89,VISUAL EFFECTS,Steve Emerson/Oliver Jones/Brian McLean/Brad Schiff,False
+356,905,2015,2016,88,VISUAL EFFECTS,Andrew Whitehurst/Paul Norris/Mark Ardington/Sara Bennett,True
+357,1434,2015,2016,88,SOUND MIXING,Andy Nelson/Christopher Scarabosio/Stuart Wilson,False
+358,608,2015,2016,88,SOUND MIXING,Paul Massey/Mark Taylor/Mac Ruth,False
+359,668,2015,2016,88,SOUND MIXING,Chris Jenkins/Gregg Rudloff/Ben Osmo,True
+360,640,2015,2016,88,SOUND MIXING,Andy Nelson/Gary Rydstrom/Drew Kunin,False
+361,1434,2015,2016,88,SOUND EDITING,Matthew Wood/David Acord,False
+362,1046,2015,2016,88,SOUND EDITING,Alan Robert Murray,False
+363,608,2015,2016,88,SOUND EDITING,Oliver Tarney,False
+364,668,2015,2016,88,SOUND EDITING,Mark Mangini/David White,True
+365,608,2015,2016,88,ART DIRECTION,Arthur Max/Celia Bobak,False
+366,668,2015,2016,88,ART DIRECTION,Colin Gibson/Lisa Thompson,True
+367,640,2015,2016,88,ART DIRECTION,Adam Stockhausen/Rena DeAngelo/Bernhard Henrich,False
+368,146,2015,2016,88,BEST PICTURE,Michael Sugar/Steve Golin/Nicole Rocklin/Blye Pagon Faust,True
+369,608,2015,2016,88,BEST PICTURE,Simon Kinberg/Ridley Scott/Michael Schaefer/Mark Huffam,False
+370,614,2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Emma Stone,False
+371,810,2018,2019,91,ACTOR IN A SUPPORTING ROLE,Adam Driver,False
+372,698,2017,2018,90,MUSIC (Original Song),Kristen Anderson-Lopez/Robert Lopez,True
+373,606,2018,2019,91,ACTOR IN A SUPPORTING ROLE,Richard E. Grant,False
+374,1514,2018,2019,91,ACTRESS IN A LEADING ROLE,Yalitza Aparicio,False
+375,1586,2017,2018,90,MUSIC (Original Song),Mary J. Blige/Raphael Saadiq/Taura Stinson,False
+376,614,2018,2019,91,ACTRESS IN A LEADING ROLE,Olivia Colman,True
+377,936,2017,2018,90,MUSIC (Original Score),John Williams,False
+378,823,2017,2018,90,MUSIC (Original Score),Alexandre Desplat,True
+379,606,2018,2019,91,ACTRESS IN A LEADING ROLE,Melissa McCarthy,False
+380,1514,2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Marina de Tavira,False
+381,204,2017,2018,90,MUSIC (Original Score),Hans Zimmer,False
+382,204,2017,2018,90,BEST PICTURE,Emma Thomas/Christopher Nolan,False
+383,823,2017,2018,90,FILM EDITING,Sidney Wolinsky,False
+384,204,2017,2018,90,FILM EDITING,Lee Smith,True
+385,195,2017,2018,90,FILM EDITING,Paul Machliss/Jonathan Amos,False
+386,1480,2017,2018,90,DOCUMENTARY (Feature),Yance Ford/Joslyn Barnes,False
+387,1051,2017,2018,90,DOCUMENTARY (Feature),Feras Fayyad/Kareem Abeed/Søren Steen Jespersen,False
+388,241,2017,2018,90,DOCUMENTARY (Feature),Agnès Varda/JR/Rosalie Varda,False
+389,666,2017,2018,90,DOCUMENTARY (Feature),Steve James/Mark Mitten/Julie Goldman,False
+390,614,2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Rachel Weisz,False
+391,1562,2018,2019,91,ANIMATED FEATURE FILM,Brad Bird/John Walker/Nicole Paradis Grindle,False
+392,1201,2018,2019,91,ANIMATED FEATURE FILM,Mamoru Hosoda/Yuichiro Saito,False
+393,823,2017,2018,90,DIRECTING,Guillermo del Toro,True
+394,204,2017,2018,90,SOUND MIXING,Gregg Landaker/Gary A. Rizzo/Mark Weingarten,True
+395,1586,2017,2018,90,WRITING (Adapted Screenplay),Virgil Williams/Dee Rees,False
+396,1149,2017,2018,90,WRITING (Adapted Screenplay),Scott Frank/James Mangold/Michael Green,False
+397,1353,2017,2018,90,WRITING (Adapted Screenplay),Scott Neustadter/Michael H. Weber,False
+398,720,2017,2018,90,WRITING (Original Screenplay),Emily V. Gordon/Kumail Nanjiani,False
+399,1009,2017,2018,90,VISUAL EFFECTS,Joe Letteri/Daniel Barrett/Dan Lemmon/Joel Whist,False
+400,936,2017,2018,90,VISUAL EFFECTS,Ben Morris/Mike Mulholland/Neal Scanlan/Chris Corbould,False
+401,936,2017,2018,90,SOUND MIXING,David Parker/Michael Semanick/Ren Klyce/Stuart Wilson,False
+402,969,2017,2018,90,WRITING (Original Screenplay),Jordan Peele,True
+403,823,2017,2018,90,SOUND MIXING,Christian Cooke/Brad Zoern/Glen Gauthier,False
+404,823,2017,2018,90,WRITING (Original Screenplay),Guillermo del Toro/Vanessa Taylor,False
+405,604,2018,2019,91,ACTOR IN A LEADING ROLE,Viggo Mortensen,False
+406,597,2018,2019,91,ANIMATED FEATURE FILM,Bob Persichetti/Peter Ramsey/Rodney Rothman/Phil Lord/Christopher Miller,True
+407,195,2017,2018,90,SOUND MIXING,Julian Slater/Tim Cavagin/Mary H. Ellis,False
+408,936,2017,2018,90,SOUND EDITING,Matthew Wood/Ren Klyce,False
+409,823,2017,2018,90,SOUND EDITING,Nathan Robitaille/Nelson Ferreira,False
+410,204,2017,2018,90,SOUND EDITING,Richard King/Alex Gibson,True
+411,195,2017,2018,90,SOUND EDITING,Julian Slater,False
+412,1499,2017,2018,90,SHORT FILM (Live Action),Chris Overton/Rachel Shenton,True
+413,823,2017,2018,90,ART DIRECTION,Paul Denham Austerberry/Shane Vieau/Jeffrey A. Melvin,True
+414,204,2017,2018,90,ART DIRECTION,Nathan Crowley/Gary Fettis,False
+415,823,2017,2018,90,BEST PICTURE,Guillermo del Toro/J. Miles Dale,True
+416,604,2018,2019,91,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,True
+417,969,2017,2018,90,BEST PICTURE,Sean McKittrick/Jason Blum/Edward H. Hamm Jr./Jordan Peele,False
+418,604,2018,2019,91,FILM EDITING,Patrick J. Don Vito,False
+419,204,2017,2018,90,CINEMATOGRAPHY,Hoyte van Hoytema,False
+420,586,2018,2019,91,DOCUMENTARY (Feature),Bing Liu/Diane Quon,False
+421,841,2018,2019,91,DOCUMENTARY (Feature),Talal Derki/Ansgar Frerich/Eva Kemme/Tobias N. Siebert,False
+422,698,2017,2018,90,ANIMATED FEATURE FILM,Lee Unkrich/Darla K. Anderson,True
+423,939,2017,2018,90,ANIMATED FEATURE FILM,Nora Twomey/Anthony Leo,False
+424,1299,2018,2019,91,DOCUMENTARY (Feature),Betsy West/Julie Cohen,False
+425,823,2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,False
+426,810,2018,2019,91,FILM EDITING,Barry Alexander Brown,False
+427,614,2018,2019,91,FILM EDITING,Yorgos Mavropsaridis,False
+428,1586,2017,2018,90,CINEMATOGRAPHY,Rachel Morrison,False
+429,190,2018,2019,91,INTERNATIONAL FEATURE FILM,Lebanon,False
+430,174,2018,2019,91,INTERNATIONAL FEATURE FILM,Poland,False
+431,784,2017,2018,90,ACTOR IN A SUPPORTING ROLE,Willem Dafoe,False
+432,1514,2018,2019,91,INTERNATIONAL FEATURE FILM,Mexico,True
+433,823,2017,2018,90,ACTOR IN A SUPPORTING ROLE,Richard Jenkins,False
+434,1586,2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Mary J. Blige,False
+435,1545,2018,2019,91,INTERNATIONAL FEATURE FILM,Japan,False
+436,823,2017,2018,90,ACTRESS IN A LEADING ROLE,Sally Hawkins,False
+437,325,2018,2019,91,MAKEUP AND HAIRSTYLING,Göran Lundström/Pamela Goldammer,False
+438,810,2018,2019,91,MUSIC (Original Score),Terence Blanchard,False
+439,464,2018,2019,91,COSTUME DESIGN,Ruth Carter,True
+440,614,2018,2019,91,COSTUME DESIGN,Sandy Powell,False
+441,810,2018,2019,91,DIRECTING,Spike Lee,False
+442,174,2018,2019,91,DIRECTING,Pawel Pawlikowski,False
+443,614,2018,2019,91,DIRECTING,Yorgos Lanthimos,False
+444,969,2017,2018,90,DIRECTING,Jordan Peele,False
+445,204,2017,2018,90,DIRECTING,Christopher Nolan,False
+446,1514,2018,2019,91,CINEMATOGRAPHY,Alfonso Cuarón,True
+447,1514,2018,2019,91,DIRECTING,Alfonso Cuarón,True
+448,823,2017,2018,90,COSTUME DESIGN,Luis Sequeira,False
+449,464,2018,2019,91,MUSIC (Original Score),Ludwig Goransson,True
+450,1273,2018,2019,91,DOCUMENTARY (Feature),Elizabeth Chai Vasarhelyi/Jimmy Chin/Evan Hayes/Shannon Dill,True
+451,614,2018,2019,91,CINEMATOGRAPHY,Robbie Ryan,False
+452,174,2018,2019,91,CINEMATOGRAPHY,Lukasz Zal,False
+453,382,2018,2019,91,DOCUMENTARY (Feature),RaMell Ross/Joslyn Barnes/Su Kim,False
+454,823,2017,2018,90,CINEMATOGRAPHY,Dan Laustsen,False
+455,1374,2015,2016,88,MUSIC (Original Score),Carter Burwell,False
+456,1374,2015,2016,88,CINEMATOGRAPHY,Ed Lachman,False
+457,559,2015,2016,88,ACTRESS IN A LEADING ROLE,Brie Larson,True
+458,1374,2015,2016,88,ACTRESS IN A LEADING ROLE,Cate Blanchett,False
+459,515,2020,2021,93,WRITING (Original Screenplay),Lee Isaac Chung,False
+460,1374,2015,2016,88,ACTRESS IN A SUPPORTING ROLE,Rooney Mara,False
+461,1571,2015,2016,88,ANIMATED FEATURE FILM,Charlie Kaufman/Duke Johnson/Rosa Tran,False
+462,1374,2015,2016,88,COSTUME DESIGN,Sandy Powell,False
+463,559,2015,2016,88,DIRECTING,Lenny Abrahamson,False
+464,559,2015,2016,88,BEST PICTURE,Ed Guiney,False
+465,997,2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Regina King,True
+466,997,2018,2019,91,WRITING (Adapted Screenplay),Barry Jenkins,False
+467,997,2018,2019,91,MUSIC (Original Score),Nicholas Britell,False
+468,463,2020,2021,93,MUSIC (Original Song),H.E.R./Dernst Emile II/Tiara Thomas,True
+469,463,2020,2021,93,CINEMATOGRAPHY,Sean Bobbitt,False
+470,1520,2020,2021,93,CINEMATOGRAPHY,Joshua James Richards,False
+471,1147,2017,2018,90,COSTUME DESIGN,Mark Bridges,True
+472,515,2020,2021,93,DIRECTING,Lee Isaac Chung,False
+473,1520,2020,2021,93,DIRECTING,Chloé Zhao,True
+474,334,2020,2021,93,FILM EDITING,Yorgos Lamprinos,False
+475,663,2016,2017,89,BEST PICTURE,Donna Gigliotti/Peter Chernin/Jenno Topping/Pharrell Williams/Theodore Melfi,False
+476,1520,2020,2021,93,FILM EDITING,Chloé Zhao,False
+477,1457,2020,2021,93,INTERNATIONAL FEATURE FILM,Hong Kong,False
+478,87,2020,2021,93,INTERNATIONAL FEATURE FILM,Bosnia and Herzegovina,False
+479,1147,2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Lesley Manville,False
+480,515,2020,2021,93,MUSIC (Original Score),Emile Mosseri,False
+481,431,2021,2022,94,INTERNATIONAL FEATURE FILM,Bhutan,False
+482,334,2020,2021,93,BEST PICTURE,David Parfitt/Jean-Louis Livi/Philippe Carcassonne,False
+483,463,2020,2021,93,BEST PICTURE,Shaka King/Charles D. King/Ryan Coogler,False
+484,515,2020,2021,93,BEST PICTURE,Christina Oh,False
+485,1520,2020,2021,93,BEST PICTURE,Frances McDormand/Peter Spears/Mollye Asher/Dan Janvey/Chloé Zhao,True
+486,334,2020,2021,93,ART DIRECTION,Peter Francis/Cathy Featherstone,False
+487,663,2016,2017,89,WRITING (Adapted Screenplay),Allison Schroeder/Theodore Melfi,False
+488,334,2020,2021,93,WRITING (Adapted Screenplay),Christopher Hampton/Florian Zeller,True
+489,1520,2020,2021,93,WRITING (Adapted Screenplay),Chloé Zhao,False
+490,1509,2020,2021,93,WRITING (Adapted Screenplay),Ramin Bahrani,False
+491,568,2017,2018,90,ACTOR IN A LEADING ROLE,Timothée Chalamet,False
+492,1147,2017,2018,90,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,False
+493,463,2020,2021,93,WRITING (Original Screenplay),Will Berson/Shaka King/Kenny Lucas/Keith Lucas,False
+494,402,2017,2018,90,INTERNATIONAL FEATURE FILM,Chile,True
+495,1374,2015,2016,88,WRITING (Adapted Screenplay),Phyllis Nagy,False
+496,559,2015,2016,88,WRITING (Adapted Screenplay),Emma Donoghue,False
+497,1539,2019,2020,92,INTERNATIONAL FEATURE FILM,Poland,False
+498,1147,2017,2018,90,BEST PICTURE,JoAnne Sellar/Paul Thomas Anderson/Megan Ellison/Daniel Lupi,False
+499,568,2017,2018,90,BEST PICTURE,Peter Spears/Luca Guadagnino/Emilie Georges/Marco Morabito,False
+500,90,2021,2022,94,WRITING (Original Screenplay),Eskil Vogt/Joachim Trier,False
+501,568,2017,2018,90,MUSIC (Original Song),Sufjan Stevens,False
+502,663,2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,False
+503,1147,2017,2018,90,MUSIC (Original Score),Jonny Greenwood,False
+504,1104,2016,2017,89,ANIMATED FEATURE FILM,Claude Barras/Max Karli,False
+505,1262,2016,2017,89,ANIMATED FEATURE FILM,Michael Dudok de Wit/Toshio Suzuki,False
+506,900,2017,2018,90,INTERNATIONAL FEATURE FILM,Russia,False
+507,568,2017,2018,90,WRITING (Adapted Screenplay),James Ivory,True
+508,334,2020,2021,93,ACTOR IN A LEADING ROLE,Anthony Hopkins,True
+509,515,2020,2021,93,ACTOR IN A LEADING ROLE,Steven Yeun,False
+510,994,2016,2017,89,DOCUMENTARY (Feature),Raoul Peck/Rémi Grellety/Hébert Peck,False
+511,463,2020,2021,93,ACTOR IN A SUPPORTING ROLE,Daniel Kaluuya,True
+512,463,2020,2021,93,ACTOR IN A SUPPORTING ROLE,Lakeith Stanfield,False
+513,1147,2017,2018,90,DIRECTING,Paul Thomas Anderson,False
+514,1520,2020,2021,93,ACTRESS IN A LEADING ROLE,Frances McDormand,True
+515,334,2020,2021,93,ACTRESS IN A SUPPORTING ROLE,Olivia Colman,False
+516,1572,2016,2017,89,INTERNATIONAL FEATURE FILM,Denmark,False
+517,515,2020,2021,93,ACTRESS IN A SUPPORTING ROLE,Yuh-Jung Youn,True
+518,1097,2016,2017,89,INTERNATIONAL FEATURE FILM,Iran,True
+519,90,2021,2022,94,INTERNATIONAL FEATURE FILM,Norway,False
