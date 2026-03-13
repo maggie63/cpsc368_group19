@@ -1,0 +1,33 @@
+DROP TABLE OSCAR_NOMINATIONS PURGE;
+DROP TABLE MOVIE_METRICS PURGE;
+DROP TABLE MOVIES PURGE;
+
+CREATE TABLE MOVIES (
+    movie_id INTEGER PRIMARY KEY,
+    title VARCHAR2(255) NOT NULL,
+    releaseDate DATE NOT NULL,
+    genre VARCHAR2(255),
+    language VARCHAR2(100)
+);
+
+CREATE TABLE MOVIE_METRICS (
+    movie_id INTEGER PRIMARY KEY,
+    audienceScore INTEGER NOT NULL,
+    tomatoMeter INTEGER NOT NULL,
+    popularity INTEGER,
+    vote_average INTEGER,
+    vote_count INTEGER,
+    FOREIGN KEY (movie_id) REFERENCES MOVIES(movie_id)
+);
+
+CREATE TABLE OSCAR_NOMINATIONS (
+    nomination_id INTEGER PRIMARY KEY,
+    movie_id INTEGER NOT NULL,
+    year_film INTEGER NOT NULL,
+    year_ceremony INTEGER NOT NULL,
+    ceremony INTEGER NOT NULL,
+    canon_category VARCHAR2(255) NOT NULL,
+    name VARCHAR2(255),
+    winner INTEGER NOT NULL,
+    FOREIGN KEY (movie_id) REFERENCES MOVIES(movie_id)
+);
